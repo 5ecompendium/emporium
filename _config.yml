@@ -1,11 +1,11 @@
 # Site settings
-title: "The Grimoire"
-author: "Saph, thebombzen"
+title: "The Emporium"
+author: "Desamir"
 description:
-  "A searchable D&D 5e spell list, sorted by class and level."
-baseurl: "/grimoire" # the subpath of your site, e.g. /blog/
-url: "https://thebombzen.com" # the base hostname & protocol for your site
-source-url: "https://github.com/thebombzen/grimoire/"
+  "A searchable D&D 5e item list."
+baseurl: "/emporium" # the subpath of your site, e.g. /blog/
+url: "https://5ecompendium.github.io" # the base hostname & protocol for your site
+source-url: "https://github.com/5ecompendium/emporium/"
 permalink: "/:categories/:title"
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
 
