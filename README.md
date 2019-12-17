@@ -7,12 +7,11 @@ See the latest compiled build here: [https://5ecompendium.github.io/emporium/](h
 Emporium is forked from [thebombzen/grimoire](https://github.com/thebombzen/grimoire/).
 
 ## Structure
-Items can be found inside `_items/`. Each item gets its own post, written and stored as a [Markdown](https://daringfireball.net/projects/markdown/basics) file. The date is arbitrary and never displayed, but still necessary for [Jekyll](https://jekyllrb.com) to process the posts properly.
+Items can be found inside `_items/`. Each item gets its own post, written and stored as a [Markdown](https://daringfireball.net/projects/markdown/basics) file.
 
-To add items:
+To add items, make a new file inside `_items/` for each new item, and copy the formatting from another item.
 
-1. Make a new post inside `_items/` for each new item, and copy the formatting from another item.
-2. Submit a pull request for the item(s) when you're finished, and that's it!
+To add tags, make a new file inside `_tags/` for each new tag, and copy the formatting from another tag.
 
 ## Build Instructions
 If you've got [Jekyll](https://jekyllrb.com) set up locally, the following should create the build from your friendly command line terminal:
