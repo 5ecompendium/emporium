@@ -1,0 +1,10 @@
+- name: Common
+  tag: common
+- name: Uncommon
+  tag: uncommon
+- name: Rare
+  tag: rare
+- name: Very Rare
+  tag: very-rare
+- name: Legendary
+  tag: legendary

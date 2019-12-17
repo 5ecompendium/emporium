@@ -1,5 +1,5 @@
 # Site settings
-title: "The Emporium"
+title: "Emporium"
 author: "Desamir"
 description:
   "A searchable D&D 5e item list."
@@ -20,4 +20,4 @@ defaults:
       path: ""
       type: "posts"
     values:
-      category: "spells"
+      category: "items"
