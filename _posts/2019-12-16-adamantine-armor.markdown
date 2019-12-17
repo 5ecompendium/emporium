@@ -3,7 +3,7 @@ layout: post
 title:  "Adamantine Armor"
 date:   2019-12-16
 sources: [PHB.150]
-tags: [armor, uncommon]
+tags: [armor, medium, heavy, uncommon]
 ---
 
 **Armor (medium or heavy, but not hide)**

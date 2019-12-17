@@ -3,7 +3,7 @@ layout: post
 title:  "Ammunition, +1"
 date:   2019-12-16
 sources: [PHB.150]
-tags:   [weapon, uncommon]
+tags:   [weapon, ammunition, uncommon]
 ---
 
 **Weapon (any ammunition)**
