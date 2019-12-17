@@ -1,4 +1,4 @@
-- name: Player’s Handbook
-  source: PHB
+- name: Dungeon Master's Guide
+  source: DMG
 - name: Xanathar’s Guide to Everything
   source: Xanathar

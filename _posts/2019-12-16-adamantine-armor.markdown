@@ -2,7 +2,7 @@
 layout: post
 title:  "Adamantine Armor"
 date:   2019-12-16
-sources: [PHB.150]
+sources: [DMG.150]
 tags: [armor, medium, heavy, uncommon]
 ---
 

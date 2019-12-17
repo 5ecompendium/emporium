@@ -2,7 +2,7 @@
 layout: post
 title:  "Ammunition, +1"
 date:   2019-12-16
-sources: [PHB.150]
+sources: [DMG.150]
 tags:   [weapon, ammunition, uncommon]
 ---
 

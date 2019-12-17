@@ -1,17 +1,13 @@
 - name: Armor
   tag: armor
+- name: Focus
+  tag: focus
 - name: Potion
   tag: potion
 - name: Ring
   tag: ring
-- name: Rod
-  tag: rod
 - name: Scroll
   tag: scroll
-- name: Staff
-  tag: staff
-- name: Wand
-  tag: wand
 - name: Weapon
   tag: weapon
 - name: Wondrous
