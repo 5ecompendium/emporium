@@ -19,10 +19,10 @@ layout: default
     <a id="{{rarity.tag}}"></a>
     <h2 class="post-list-head jetsHide">{{rarity.name}}</h2>
     <ul class="post-list jetsContent">
-      {% assign post_list = site.tags.[{{rarity.tag}}] %}
-      {% for post in post_list %}
-        <li data-tags="{{ post.tags | join: ',' }}" data-sources="{{ post.sources | join: ',' }}">
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      {% assign item_list = site.items | where: 'tags', rarity.tag %}
+      {% for item in item_list %}
+        <li data-tags="{{ item.tags | join: ',' }}" data-sources="{{ item.sources | join: ',' }}">
+          <a class="post-link" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a>
         </li>
       {% endfor %}
     </ul>

@@ -2,7 +2,7 @@
 title: "Emporium"
 author: "Desamir"
 description:
-  "A searchable D&D 5e item list."
+  "A searchable D&D 5e magic item list."
 baseurl: "/emporium" # the subpath of your site, e.g. /blog/
 url: "https://5ecompendium.github.io" # the base hostname & protocol for your site
 source-url: "https://github.com/5ecompendium/emporium/"
@@ -21,3 +21,9 @@ defaults:
       type: "posts"
     values:
       category: "items"
+
+collections:
+  items:
+    output: true
+  tags:
+    output: true

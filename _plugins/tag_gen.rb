@@ -8,7 +8,7 @@ module Jekyll
       @name = dir + '.html'
 
       self.process(@name)
-      self.read_yaml(File.join(base, '_layouts'), 'tag_index.html')
+      self.read_yaml(File.join(base, '_layouts'), 'tag.html')
       self.data['tag'] = tag
       self.data['title'] = tag.capitalize
     end

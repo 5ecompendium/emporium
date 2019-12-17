@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body class="class-list">
+	{% include header.html %}
+
+	<div class="page-content">
+		<div class="wrapper">
+			<h1 class="page-heading">{{page.title}}</h1>
+			<p id="itemSearch">Search by name: <input type="search" id="jetsSearch" class="jetsSearch"></p>
+			<p id="tagSearch">Search by tag: <input type="search" name="tagSearch" id="tagSearchBar" class="jetsSearch"></p>
+			<p id="sourceSearch">Search by source: <input type="search" name="sourceSearch" id="sourceSearchBar" class="jetsSearch"></p>
+			<dl class="tag-list">
+				<dt>Rarity:</dt>
+				{% for rarity in site.data.rarities %}
+				<dd>
+					<a href="#{{rarity.tag}}">{{rarity.name}}</a>
+				</dd>
+				{% endfor %}
+			</dl>
+
+			{% assign all_items = site.items | where: 'tags', page.tag %}
+			{% for rarity in site.data.rarities %}
+			<a id="{{rarity.tag}}"></a>
+			<h2 class="post-list-head jetsHide">{{rarity.name}}</h2>
+			{% assign item_list = all_items | where: 'tags', rarity.tag %}
+			<ul class="post-list jetsContent">
+				{% for item in item_list %}
+				<li data-tags="{{ item.tags | join: ',' }}" data-sources="{{ item.sources | join: ',' }}">
+					<a class="post-link" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a>
+				</li>
+				{% endfor %}
+			</ul>
+			<a class="post-meta jetsHide" href="#top">Back to top &#8593;</a>
+			{% endfor %}
+		</div>
+	</div>
+
+	{% include footer.html %}
+
+</body>
+
+</html>
