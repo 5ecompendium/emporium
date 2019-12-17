@@ -5,8 +5,7 @@ sources: [DMG.150]
 tags:   [wondrous, uncommon]
 ---
 
-**Wondrous Item**
-
+**Wondrous Item**  
 *Uncommon*
 
 This ceramic jug appears to be able to hold a gallon of liquid and weighs 12 pounds whether full or empty. Sloshing sounds can be heard from within the jug when it is shaken, even if the jug is empty.

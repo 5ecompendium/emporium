@@ -5,8 +5,7 @@ sources: [DMG.152]
 tags: [armor, light, medium, heavy, rare, attunement]
 ---
 
-**Armor (light, medium, or heavy)**
-
+**Armor (light, medium, or heavy)**  
 *Rare (requires attunement)*
 
 You have resistance to one type of damage while you wear this armor. The GM chooses the type or determines it randomly from the options below.

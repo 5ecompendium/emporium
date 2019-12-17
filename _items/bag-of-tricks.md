@@ -5,8 +5,7 @@ sources: [DMG.154]
 tags: [wondrous, uncommon]
 ---
 
-**Wondrous Item**
-
+**Wondrous Item**  
 *Uncommon*
 
 This ordinary bag, made from gray, rust, or tan cloth, appears empty. Reaching inside the bag, however, reveals the presence of a small, fuzzy object. The bag weighs 1/2 pound.

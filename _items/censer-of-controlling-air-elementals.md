@@ -5,8 +5,7 @@ sources: [DMG.158]
 tags: [wondrous, rare]
 ---
 
-**Wondrous Item**
-
+**Wondrous Item**  
 *Rare*
 
 While incense is burning in this censer, you can use an action to speak the censer’s command word and summon an air elemental, as if you had cast the *conjure elemental* spell. The censer can’t be used this way again until the next dawn.
