@@ -62,17 +62,17 @@ Joker (without TM)	| Jester
 
 ***Jester.*** You gain 10,000 XP, or you can draw two additional cards beyond your declared draws.
 
-***Key.*** A rare or rarer magic weapon with which you are proficient appears in your hands. The GM chooses the weapon.
+***Key.*** A rare or rarer magic weapon with which you are proficient appears in your hands. The DM chooses the weapon.
 
 ***Knight.*** You gain the service of a 4th-­‐‑level fighter who appears in a space you choose within 30 feet of you. The fighter is of the same race as you and serves you loyally until death, believing the fates have drawn him or her to you. You control this character.
 
 ***Moon.*** You are granted the ability to cast the wish spell 1d3 times.
 
-***Rogue.*** A nonplayer character of the GM’s choice becomes hostile toward you. The identity of your new enemy isn’t known until the NPC or someone else reveals it. Nothing less than a wish spell or divine intervention can end the NPC’s hostility toward you.
+***Rogue.*** A nonplayer character of the DM’s choice becomes hostile toward you. The identity of your new enemy isn’t known until the NPC or someone else reveals it. Nothing less than a wish spell or divine intervention can end the NPC’s hostility toward you.
 
 ***Ruin.*** All forms of wealth that you carry or own, other than magic items, are lost to you. Portable property vanishes. Businesses, buildings, and land you own are lost in a way that alters reality the least. Any documentation that proves you should own something lost to this card also disappears.
 
-***Skull.*** You summon an avatar of death—a ghostly humanoid skeleton clad in a tattered black robe and carrying a spectral scythe. It appears in a space of the GM’s choice within 10 feet of you and attacks you, warning all others that you must win the battle alone. The avatar fights until you die or it drops to 0 hit points, whereupon it disappears. If anyone tries to help you, the helper summons its own avatar of death. A creature slain by an avatar of death can’t be restored to life.
+***Skull.*** You summon an avatar of death—a ghostly humanoid skeleton clad in a tattered black robe and carrying a spectral scythe. It appears in a space of the DM’s choice within 10 feet of you and attacks you, warning all others that you must win the battle alone. The avatar fights until you die or it drops to 0 hit points, whereupon it disappears. If anyone tries to help you, the helper summons its own avatar of death. A creature slain by an avatar of death can’t be restored to life.
 
 >## Avatar of Death
 >
@@ -102,7 +102,7 @@ Joker (without TM)	| Jester
 
 ***Star.*** Increase one of your ability scores by 2. The score can exceed 20 but can’t exceed 24.
 
-***Sun.*** You gain 50,000 XP, and a wondrous item (which the GM determines randomly) appears in your hands.
+***Sun.*** You gain 50,000 XP, and a wondrous item (which the DM determines randomly) appears in your hands.
 
 ***Talons.*** Every magic item you wear or carry disintegrates. Artifacts in your possession aren’t destroyed but do vanish.
 
@@ -110,4 +110,4 @@ Joker (without TM)	| Jester
 
 ***Vizier.*** At any time you choose within one year of drawing this card, you can ask a question in meditation and mentally receive a truthful answer to that question. Besides information, the answer helps you solve a puzzling problem or other dilemma. In other words, the knowledge comes with wisdom on how to apply it.
 
-***The Void.*** This black card spells disaster. Your soul is drawn from your body and contained in an object in a place of the GM’s choice. One or more powerful beings guard the place. While your soul is trapped in this way, your body is incapacitated. A wish spell can’t restore your soul, but the spell reveals the location of the object that holds it. You draw no more cards.
+***The Void.*** This black card spells disaster. Your soul is drawn from your body and contained in an object in a place of the DM’s choice. One or more powerful beings guard the place. While your soul is trapped in this way, your body is incapacitated. A wish spell can’t restore your soul, but the spell reveals the location of the object that holds it. You draw no more cards.

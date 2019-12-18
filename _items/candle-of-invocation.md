@@ -8,7 +8,7 @@ tags: [wondrous, very-rare, attunement]
 **Wondrous Item**  
 *Very rare (requires attunement)*
 
-This slender taper is dedicated to a deity and shares that deity’s alignment. The candle’s alignment can be detected with the detect evil and good spell. The GM chooses the god and associated alignment or determines the alignment randomly.
+This slender taper is dedicated to a deity and shares that deity’s alignment. The candle’s alignment can be detected with the detect evil and good spell. The DM chooses the god and associated alignment or determines the alignment randomly.
 
 d20 | Alignment
 :-: | ---
