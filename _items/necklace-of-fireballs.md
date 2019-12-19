@@ -5,8 +5,7 @@ sources: [DMG.182]
 tags: [wondrous, rare]
 ---
 
-**Wondrous Item**  
-*Rare*
+**Wondrous Item** ◆ *Rare*
 
 This necklace has 1d6 + 3 beads hanging from it. You can use an action to detach a bead and throw it up to 60 feet away. When it reaches the end of its trajectory, the bead detonates as a 3rd-level *fireball* spell (save DC 15).
 

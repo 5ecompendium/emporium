@@ -5,8 +5,7 @@ sources: [DMG.173]
 tags: [weapon, maul, legendary, attunement]
 ---
 
-**Weapon (maul)**  
-*Legendary*
+**Weapon (maul)** ◆ *Legendary*
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 

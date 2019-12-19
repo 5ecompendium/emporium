@@ -5,8 +5,7 @@ sources: [DMG.161]
 tags: [wondrous, uncommon]
 ---
 
-**Wondrous Item**  
-*Uncommon*
+**Wondrous Item** ◆ *Uncommon*
 
 This stoppered flask sloshes when shaken, as if it contains water. The decanter weighs 2 pounds.
 

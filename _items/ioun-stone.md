@@ -5,8 +5,7 @@ sources: [DMG.176]
 tags: [wondrous, rare, attunement]
 ---
 
-**Wondrous Item**  
-*Rarity varies (requires attunement)*
+**Wondrous Item** ◆ *Rarity varies (requires attunement)*
 
 An *Ioun stone* is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of *Ioun stone* exist, each type a distinct combination of shape and color.
 

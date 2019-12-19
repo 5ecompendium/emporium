@@ -5,8 +5,7 @@ sources: [DMG.160]
 tags: [wondrous, rare]
 ---
 
-**Wondrous Item**  
-*Rare*
+**Wondrous Item** ◆ *Rare*
 
 You can use an action to place this 1-inch metal cube on the ground and speak its command word. The cube rapidly grows into a fortress that remains until you use an action to speak the command word that dismisses it, which works only if the fortress is empty.
 

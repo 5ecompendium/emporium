@@ -5,8 +5,7 @@ sources: [DMG.185]
 tags: [wondrous, rare]
 ---
 
-**Wondrous Item**  
-*Rare*
+**Wondrous Item** ◆ *Rare*
 
 This fine black cloth, soft as silk, is folded up to the dimensions of a handkerchief. It unfolds into a circular sheet 6 feet in diameter.
 

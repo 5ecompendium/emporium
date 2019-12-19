@@ -5,8 +5,7 @@ sources: [DMG.166]
 tags: [wondrous, uncommon]
 ---
 
-**Wondrous Item**  
-*Uncommon*
+**Wondrous Item** ◆ *Uncommon*
 
 Found in a small container, this powder resembles very fine sand. It appears to be *dust of disappearance*, and an *identify* spell reveals it to be such. There is enough of it for one use.
 

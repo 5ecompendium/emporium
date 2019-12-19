@@ -5,8 +5,7 @@ sources: [DMG.185]
 tags: [wondrous, uncommon, attunement]
 ---
 
-**Wondrous Item**  
-*Uncommon (requires attunement)*
+**Wondrous Item** ◆ *Uncommon (requires attunement)*
 
 You must be proficient with wind instruments to use these pipes. While you are attuned to the pipes, ordinary rats and giant rats are indifferent toward you and will not attack you unless you threaten or harm them.
 

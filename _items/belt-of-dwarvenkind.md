@@ -5,8 +5,7 @@ sources: [DMG.155]
 tags: [wondrous, rare, attunement]
 ---
 
-**Wondrous Item**  
-*Rare (requires attunement)*
+**Wondrous Item** ◆ *Rare (requires attunement)*
 
 While wearing this belt, you gain the following benefits:
 

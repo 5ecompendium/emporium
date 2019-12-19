@@ -5,8 +5,7 @@ sources: [DMG.180]
 tags: [wondrous, very-rare]
 ---
 
-**Wondrous Item**  
-*Very rare*
+**Wondrous Item** ◆ *Very rare*
 
 This tome contains information and incantations necessary to make a particular type of golem. The DM chooses the type or determines it randomly. To decipher and use the manual, you must be a spellcaster with at least two 5th-level spell slots. A creature that can’t use a *manual of golems* and attempts to read it takes 6d6 psychic damage.
 

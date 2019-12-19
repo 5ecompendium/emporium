@@ -5,8 +5,7 @@ sources: [DMG.157]
 tags: [wondrous, rare]
 ---
 
-**Wondrous Item**  
-*Rare*
+**Wondrous Item** ◆ *Rare*
 
 This cape smells faintly of brimstone. While wearing it, you can use it to cast the *dimension door* spell as an action. This property of the cape can't be used again until the next dawn.
 

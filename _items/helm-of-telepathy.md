@@ -5,8 +5,7 @@ sources: [DMG.174]
 tags: [wondrous, uncommon, attunement]
 ---
 
-**Wondrous Item**  
-*Uncommon (requires attunement)*
+**Wondrous Item** ◆ *Uncommon (requires attunement)*
 
 While wearing this helm, you can use an action to cast the *detect thoughts* spell (save DC 13) from it. As long as you maintain concentration on the spell, you can use a bonus action to send a telepathic message to a creature you are focused on. It can reply—-using a bonus action to do so—-while your focus on it continues.
 

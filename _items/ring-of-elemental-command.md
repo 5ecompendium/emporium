@@ -5,8 +5,7 @@ sources: [DMG.190]
 tags: [ring, legendary, attunement]
 ---
 
-**Ring**  
-*Legendary (requires attunement)*
+**Ring** ◆ *Legendary (requires attunement)*
 
 This ring is linked to one of the four Elemental Planes. The DM chooses or randomly determines the linked plane.
 

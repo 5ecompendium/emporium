@@ -5,8 +5,7 @@ sources: [DMG.176]
 tags: [wondrous, focus, uncommon, attunement, bard]
 ---
 
-**Wondrous Item**  
-*Rarity varies (requires attunement by a bard)*
+**Wondrous Item** ◆ *Rarity varies (requires attunement by a bard)*
 
 An *instrument of the bards* is an exquisite example of its kind, superior to an ordinary instrument in every way. Seven types of these instruments exist, each named after a legendary bard college. The following table lists the spells common to all instruments, as well as the spells specific to each one and its rarity. A creature that attempts to play the instrument without being attuned to it must succeed on a DC Wisdom saving throw or take 2d4 psychic damage.
 

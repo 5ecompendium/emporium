@@ -5,8 +5,7 @@ sources: [DMG.166]
 tags: [weapon, sword, rare]
 ---
 
-**Weapon (any sword)**  
-*Rare*
+**Weapon (any sword)** ◆ *Rare*
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 

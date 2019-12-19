@@ -5,8 +5,7 @@ sources: [DMG.188]
 tags: [wondrous, rare]
 ---
 
-**Wondrous Item**  
-*Rare*
+**Wondrous Item** ◆ *Rare*
 
 This tiny object looks like a feather. Different types of feather tokens exist, each with a different single-use effect. The DM chooses the kind of token or determines it randomly.
 

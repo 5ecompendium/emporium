@@ -5,8 +5,7 @@ sources: [DMG.164]
 tags: [weapon, sword, legendary, attunement]
 ---
 
-**Weapon (any sword)**  
-*Legendary*
+**Weapon (any sword)** ◆ *Legendary*
 
 You gain a +3 bonus to attack and damage rolls made with this magic weapon.
 

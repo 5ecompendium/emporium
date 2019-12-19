@@ -5,8 +5,7 @@ sources: [DMG.183]
 tags: [weapon, sword, very-rare, attunement]
 ---
 
-**Weapon (any sword)**  
-*Very rare (requires attunement)*
+**Weapon (any sword)** ◆ *Very rare (requires attunement)*
 
 You gain a +2 bonus to attack and damage rolls made with this magic weapon.
 

@@ -5,8 +5,7 @@ sources: [DMG.161]
 tags: [weapon, dagger, rare]
 ---
 
-**Weapon (dagger)**  
-*Rare*
+**Weapon (dagger)** ◆ *Rare*
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 

@@ -5,8 +5,7 @@ sources: [DMG.172]
 tags: [weapon, axe, sword, rare]
 ---
 
-**Weapon (any axe or sword)**  
-*Rare*
+**Weapon (any axe or sword)** ◆ *Rare*
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 

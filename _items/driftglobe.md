@@ -5,8 +5,7 @@ sources: [DMG.166]
 tags: [wondrous, uncommon]
 ---
 
-**Wondrous Item**  
-*Uncommon*
+**Wondrous Item** ◆ *Uncommon*
 
 This small sphere of thick glass weighs 1 pound. If you are within 60 feet of it, you can speak its command word and cause it to emanate the *light* or *daylight* spell. Once used, the *daylight* effect can't be used again until the next dawn.
 

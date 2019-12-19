@@ -5,8 +5,7 @@ sources: [DMG.156]
 tags: [wondrous, uncommon, attunement]
 ---
 
-**Wondrous Item**  
-*Uncommon (requires attunement)*
+**Wondrous Item** ◆ *Uncommon (requires attunement)*
 
 These furred boots are snug and feel quite warm. While you wear them, you gain the following benefits:
 

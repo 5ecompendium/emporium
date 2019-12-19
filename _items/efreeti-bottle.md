@@ -5,8 +5,7 @@ sources: [DMG.167]
 tags: [wondrous, very-rare]
 ---
 
-**Wondrous Item**  
-*Very rare*
+**Wondrous Item** ◆ *Very rare*
 
 This painted brass bottle weighs 1 pound. When you use an action to remove the stopper, a cloud of thick smoke flows out of the bottle. At the end of your turn, the smoke disappears with a flash of harmless fire, and an efreeti appears in an unoccupied space within 30 feet of you. See the *Monster Manual* for the efreeti's statistics.
 

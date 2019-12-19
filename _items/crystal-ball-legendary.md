@@ -5,8 +5,7 @@ sources: [DMG.159]
 tags: [wondrous, legendary]
 ---
 
-**Wondrous Item**  
-*Legendary*
+**Wondrous Item** ◆ *Legendary*
 
 This special *crystal ball* is about 6 inches in diameter. While touching it, you can cast the *scrying* spell (save DC 17) with it. A crystal ball of legendary rarity has one of the following additional properties:
 
