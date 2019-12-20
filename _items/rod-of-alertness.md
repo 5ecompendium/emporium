@@ -3,9 +3,9 @@ layout: item
 title:  "Rod of Alertness"
 sources: [DMG.196]
 tags: [focus, rod, very-rare, attunement]
+category: "Rod"
+rarity: "Very rare (requires attunement)"
 ---
-
-**Rod** ◆ *Very rare (requires attunement)*
 
 This rod has a flanged head and the following properties.
 

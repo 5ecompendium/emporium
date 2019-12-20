@@ -3,9 +3,9 @@ layout: item
 title:  "Carpet of Flying"
 sources: [DMG.157]
 tags: [wondrous, very-rare]
+category: "Wondrous Item"
+rarity: "Very rare"
 ---
-
-**Wondrous Item** ◆ *Very rare*
 
 You can speak the carpet's command word as an action to make the carpet hover and fly. It moves according to your spoken directions, provided that you are within 30 feet of it.
 

@@ -3,9 +3,9 @@ layout: item
 title:  "Holy Avenger"
 sources: [DMG.174]
 tags: [weapon, sword, legendary, attunement, paladin]
+category: "Weapon (any sword)"
+rarity: "Legendary (requires attunement by a paladin)"
 ---
-
-**Weapon (any sword)** ◆ *Legendary (requires attunement by a paladin)*
 
 You gain a +3 bonus to attack and damage rolls made with this magic weapon. When you hit a fiend or an undead with it, that creature takes an extra 2d10 radiant damage.
 

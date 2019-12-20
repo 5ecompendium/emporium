@@ -3,9 +3,9 @@ layout: item
 title:  "Defender"
 sources: [DMG.164]
 tags: [weapon, sword, legendary, attunement]
+category: "Weapon (any sword)"
+rarity: "Legendary"
 ---
-
-**Weapon (any sword)** ◆ *Legendary*
 
 You gain a +3 bonus to attack and damage rolls made with this magic weapon.
 

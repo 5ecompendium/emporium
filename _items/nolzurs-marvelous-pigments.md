@@ -3,9 +3,9 @@ layout: item
 title:  "Norzur's Marvelous Pigments"
 sources: [DMG.183]
 tags: [wondrous, very-rare]
+category: "Wondrous Item"
+rarity: "Very rare"
 ---
-
-**Wondrous Item** ◆ *Very rare*
 
 Typically found in 1d4 pots inside a fine wooden box with a brush (weighing 1 pound in total), these pigments allow you to create three-dimensional objects by painting them in two dimensions. The paint flows from the brush to form the desired object as you concentrate on its image.
 

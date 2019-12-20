@@ -3,9 +3,9 @@ layout: item
 title:  "Deck of Illusions"
 sources: [DMG.161]
 tags: [wondrous, uncommon]
+category: "Wondrous Item"
+rarity: "Uncommon"
 ---
-
-**Wondrous Item** ◆ *Uncommon*
 
 This box contains a set of parchment cards. A full deck has 34 cards. A deck found as treasure is usually missing 1d20 − 1 cards.
 

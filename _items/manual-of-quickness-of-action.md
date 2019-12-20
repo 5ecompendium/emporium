@@ -3,8 +3,8 @@ layout: item
 title:  "Manual of Quickness of Action"
 sources: [DMG.181]
 tags: [wondrous, very-rare]
+category: "Wondrous Item"
+rarity: "Very rare"
 ---
-
-**Wondrous Item** ◆ *Very rare*
 
 This book contains coordination and balance exercises, and its words are charged with magic. If you spend 48 hours over a period of 6 days or fewer studying the book’s contents and practicing its guidelines, your Dexterity score increases by 2, as does your maximum for that score. The manual then loses its magic, but regains it in a century.

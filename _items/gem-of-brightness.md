@@ -3,9 +3,9 @@ layout: item
 title:  "Gem of Brightness"
 sources: [DMG.171]
 tags: [wondrous, uncommon]
+category: "Wondrous Item"
+rarity: "Uncommon"
 ---
-
-**Wondrous Item** ◆ *Uncommon*
 
 This prism has 50 charges. While you are holding it, you can use an action to speak one of three command words to cause one of the following effects:
 

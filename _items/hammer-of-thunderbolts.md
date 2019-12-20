@@ -3,9 +3,9 @@ layout: item
 title:  "Hammer of Thunderbolts"
 sources: [DMG.173]
 tags: [weapon, maul, legendary, attunement]
+category: "Weapon (maul)"
+rarity: "Legendary"
 ---
-
-**Weapon (maul)** ◆ *Legendary*
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 

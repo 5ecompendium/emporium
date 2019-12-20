@@ -3,9 +3,9 @@ layout: item
 title:  "Scroll of Protection"
 sources: [DMG.199]
 tags: [scroll, rare]
+category: "Scroll"
+rarity: "Rare"
 ---
-
-**Scroll** ◆ *Rare*
 
 Each _scroll of protection_ works against a specific type of creature chosen by the DM or determined randomly by rolling on the following table.
 

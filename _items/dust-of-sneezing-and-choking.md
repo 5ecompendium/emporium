@@ -3,9 +3,9 @@ layout: item
 title:  "Dust of Sneezing and Choking"
 sources: [DMG.166]
 tags: [wondrous, uncommon]
+category: "Wondrous Item"
+rarity: "Uncommon"
 ---
-
-**Wondrous Item** ◆ *Uncommon*
 
 Found in a small container, this powder resembles very fine sand. It appears to be *dust of disappearance*, and an *identify* spell reveals it to be such. There is enough of it for one use.
 

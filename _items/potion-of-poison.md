@@ -3,9 +3,9 @@ layout: item
 title:  "Potion of Poison"
 sources: [DMG.188]
 tags: [potion, uncommon, cursed]
+category: "Potion"
+rarity: "Uncommon"
 ---
-
-**Potion** ◆ *Uncommon*
 
 This concoction looks, smells, and tastes like a _potion of healing_ or other beneficial potion. However, it is actually poison masked by illusion magic. An _identify_ spell reveals its true nature.
 

@@ -3,9 +3,9 @@ layout: item
 title:  "Belt of Dwarvenkind"
 sources: [DMG.155]
 tags: [wondrous, rare, attunement]
+category: "Wondrous Item"
+rarity: "Rare (requires attunement)"
 ---
-
-**Wondrous Item** ◆ *Rare (requires attunement)*
 
 While wearing this belt, you gain the following benefits:
 

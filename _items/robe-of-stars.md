@@ -3,9 +3,9 @@ layout: item
 title:  "Robe of Stars"
 sources: [DMG.194]
 tags: [wondrous, very-rare, attunement]
+category: "Wondrous Item"
+rarity: "Very rare (requires attunement)"
 ---
-
-**Wondrous Item** ◆ *Very rare (requires attunement)*
 
 This black or dark blue robe is embroidered with small white or silver stars. You gain a +1 bonus to saving throws while you wear it.
 

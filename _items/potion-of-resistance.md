@@ -3,9 +3,9 @@ layout: item
 title:  "Potion of Resistance"
 sources: [DMG.188]
 tags: [potion, uncommon]
+category: "Potion"
+rarity: "Uncommon"
 ---
-
-**Potion** ◆ *Uncommon*
 
 When you drink this potion, you gain resistance to one type of damage for 1 hour. The GM chooses the type or determines it randomly from the options below.
 

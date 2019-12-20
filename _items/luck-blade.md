@@ -3,9 +3,9 @@ layout: item
 title:  "Luck Blade"
 sources: [DMG.179]
 tags: [weapon, sword, legendary, attunement]
+category: "Weapon (any sword)"
+rarity: "Legendary (requires attunement)"
 ---
-
-**Weapon (any sword)** ◆ *Legendary (requires attunement)*
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon. While the sword is on your person, you also gain a +1 bonus to saving throws.
 

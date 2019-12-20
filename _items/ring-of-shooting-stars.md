@@ -3,9 +3,9 @@ layout: item
 title:  "Ring of Shooting Stars"
 sources: [DMG.192]
 tags: [ring, very-rare, attunement]
+category: "Ring"
+rarity: "Very rare (requires attunement outdoors at night)"
 ---
-
-**Ring** ◆ *Very rare (requires attunement outdoors at night)*
 
 While wearing this ring in dim light or darkness, you can cast dancing lights and light from the ring at will. Casting either spell from the ring requires an action. The ring has 6 charges for the following other properties. The ring regains 1d6 expended charges daily at dawn.
 

@@ -3,9 +3,9 @@ layout: item
 title:  "Dagger of Venom"
 sources: [DMG.161]
 tags: [weapon, dagger, rare]
+category: "Weapon (dagger)"
+rarity: "Rare"
 ---
-
-**Weapon (dagger)** ◆ *Rare*
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 

@@ -3,9 +3,9 @@ layout: item
 title:  "Ring of Spell Storing"
 sources: [DMG.192]
 tags: [ring, rare, attunement]
+category: "Ring"
+rarity: "Rare (requires attunement)"
 ---
-
-**Ring** ◆ *Rare (requires attunement)*
 
 This ring stores spells cast into it, holding them until the attuned wearer uses them. The ring can store up to 5 levels worth of spells at a time. When found, it contains 1d6 − 1 levels of stored spells chosen by the DM.
 

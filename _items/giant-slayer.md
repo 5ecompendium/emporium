@@ -3,9 +3,9 @@ layout: item
 title:  "Giant Slayer"
 sources: [DMG.172]
 tags: [weapon, axe, sword, rare]
+category: "Weapon (any axe or sword)"
+rarity: "Rare"
 ---
-
-**Weapon (any axe or sword)** ◆ *Rare*
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 

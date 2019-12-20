@@ -3,9 +3,9 @@ layout: item
 title:  "Cloak of Invisibility"
 sources: [DMG.158]
 tags: [wondrous, legendary, attunement]
+category: "Wondrous Item"
+rarity: "Legendary (requires attunement)"
 ---
-
-**Wondrous Item** ◆ *Legendary (requires attunement)*
 
 While wearing this cloak, you can pull its hood over your head to cause yourself to become invisible. While you are invisible, anything you are carrying or wearing is invisible with you. You become visible when you cease wearing the hood. Pulling the hood up or down requires an action.
 

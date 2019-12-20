@@ -3,9 +3,9 @@ layout: item
 title:  "Ring of Resistance"
 sources: [DMG.192]
 tags: [ring, rare, attunement]
+category: "Ring"
+rarity: "Rare (requires attunement)"
 ---
-
-**Ring** ◆ *Rare (requires attunement)*
 
 You have resistance to one damage type while wearing this ring. The gem in the ring indicates the type, which the DM chooses or determines randomly.
 

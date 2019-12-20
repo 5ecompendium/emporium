@@ -3,9 +3,9 @@ layout: item
 title:  "Iron Bands of Bilarro"
 sources: [DMG.177]
 tags: [wondrous, rare]
+category: "Wondrous Item"
+rarity: "Rare"
 ---
-
-**Wondrous Item** ◆ *Rare*
 
 This rusty iron sphere measures 3 inches in diameter and weighs 1 pound. You can use an action to speak the command word and throw the sphere at a Huge or smaller creature you can see within 60 feet of you. As the sphere moves through the air, it opens into a tangle of metal bands.
 

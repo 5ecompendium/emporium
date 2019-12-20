@@ -3,9 +3,9 @@ layout: item
 title:  "Cloak of Arachnida"
 sources: [DMG.158]
 tags: [wondrous, very-rare, attunement]
+category: "Wondrous Item"
+rarity: "Very rare (requires attunement)"
 ---
-
-**Wondrous Item** ◆ *Very rare (requires attunement)*
 
 This fine garment is made of black silk interwoven with faint silvery threads. While wearing it, you gain the following benefits:
 

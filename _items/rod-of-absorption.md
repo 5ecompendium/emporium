@@ -3,9 +3,9 @@ layout: item
 title:  "Rod of Absorption"
 sources: [DMG.195]
 tags: [focus, rod, very-rare, attunement]
+category: "Rod"
+rarity: "Very rare (requires attunement)"
 ---
-
-**Rod** ◆ *Very rare (requires attunement)*
 
 While holding this rod, you can use your reaction to absorb a spell that is targeting only you and not with an area of effect. The absorbed spell’s effect is canceled, and the spell’s energy—not the spell itself—is stored in the rod. The energy has the same level as the spell when it was cast. The rod can absorb and store up to 50 levels of energy over the course of its existence. Once the rod absorbs 50 levels of energy, it can’t absorb more. If you are targeted by a spell that the rod can’t store, the rod has no effect on that spell.
 

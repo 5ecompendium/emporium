@@ -3,9 +3,9 @@ layout: item
 title:  "Folding Boat"
 sources: [DMG.170]
 tags: [wondrous, rare]
+category: "Wondrous Item"
+rarity: "Rare"
 ---
-
-**Wondrous Item** ◆ *Rare*
 
 This object appears as a wooden box that measures 12 inches long, 6 inches wide, and 6 inches deep. It weighs 4 pounds and floats. It can be opened to store items inside. This item also has three command words, each requiring you to use an action to speak it.
 

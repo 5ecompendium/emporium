@@ -3,9 +3,9 @@ layout: item
 title:  "Bag of Devouring"
 sources: [DMG.153]
 tags: [wondrous, very-rare]
+category: "Wondrous Item"
+rarity: "Very rare"
 ---
-
-**Wondrous Item** ◆ *Very rare*
 
 This bag superficially resembles a *bag of holding* but is a feeding orifice for a gigantic extradimensional creature. Turning the bag inside out closes the orifice.
 

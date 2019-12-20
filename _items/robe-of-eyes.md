@@ -3,9 +3,9 @@ layout: item
 title:  "Robe of Eyes"
 sources: [DMG.193]
 tags: [wondrous, rare, attunement]
+category: "Wondrous Item"
+rarity: "Rare (requires attunement)"
 ---
-
-**Wondrous Item** ◆ *Rare (requires attunement)*
 
 This robe is adorned with eyelike patterns. While you wear the robe, you gain the following benefits:
 

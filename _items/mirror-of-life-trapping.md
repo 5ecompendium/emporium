@@ -3,9 +3,9 @@ layout: item
 title:  "Mirror of Life Trapping"
 sources: [DMG.181]
 tags: [wondrous, very-rare]
+category: "Wondrous Item"
+rarity: "Very rare"
 ---
-
-**Wondrous Item** ◆ *Very rare*
 
 When this 4-foot-tall mirror is viewed indirectly, its surface shows faint images of creatures. The mirror weighs 50 pounds, and it has AC 11, 10 hit points, and vulnerability to bludgeoning damage. It shatters and is destroyed when reduced to 0 hit points.
 

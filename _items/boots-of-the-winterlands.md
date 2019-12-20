@@ -3,9 +3,9 @@ layout: item
 title:  "Boots of the Winterlands"
 sources: [DMG.156]
 tags: [wondrous, uncommon, attunement]
+category: "Wondrous Item"
+rarity: "Uncommon (requires attunement)"
 ---
-
-**Wondrous Item** ◆ *Uncommon (requires attunement)*
 
 These furred boots are snug and feel quite warm. While you wear them, you gain the following benefits:
 

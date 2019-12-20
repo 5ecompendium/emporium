@@ -3,9 +3,9 @@ layout: item
 title:  "Scarab of Protection"
 sources: [DMG.199]
 tags: [wondrous, legendary, attunement]
+category: "Wondrous Item"
+rarity: "Legendary (requires attunement)"
 ---
-
-**Wondrous Item** ◆ *Legendary (requires attunement)*
 
 If you hold this beetle-shaped medallion in your hand for 1 round, an inscription appears on its surface revealing its magical nature. It provides two benefits while it is on your person:
 

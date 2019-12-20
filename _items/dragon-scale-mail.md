@@ -3,9 +3,9 @@ layout: item
 title:  "Dragon Scale Mail"
 sources: [DMG.165]
 tags: [armor, scale-mail, very-rare, attunement]
+category: "Armor (scale mail)"
+rarity: "Very rare (requires attunement)"
 ---
-
-**Armor (scale mail)** ◆ *Very rare (requires attunement)*
 
 Dragon scale mail is made of the scales of one kind of dragon. Sometimes dragons collect their cast-­‐‑off scales and gift them to humanoids. Other times, hunters carefully skin and preserve the hide of a dead dragon. In either case, dragon scale mail is highly valued.
 

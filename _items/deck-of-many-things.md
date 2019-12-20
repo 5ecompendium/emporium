@@ -3,9 +3,9 @@ layout: item
 title:  "Deck of Many Things"
 sources: [DMG.162]
 tags: [wondrous, legendary]
+category: "Wondrous Item"
+rarity: "Legendary"
 ---
-
-**Wondrous Item** ◆ *Legendary*
 
 Usually found in a box or pouch, this deck contains a number of cards made of ivory or vellum. Most (75 percent) of these decks have only thirteen cards, but the rest have twenty-two.
 

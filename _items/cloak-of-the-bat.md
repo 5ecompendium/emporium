@@ -3,9 +3,9 @@ layout: item
 title:  "Cloak of the Bat"
 sources: [DMG.159]
 tags: [wondrous, rare, attunement]
+category: "Wondrous Item"
+rarity: "Rare (requires attunement)"
 ---
-
-**Wondrous Item** ◆ *Rare (requires attunement)*
 
 While wearing this cloak, you have advantage on Dexterity (Stealth) checks. In an area of dim light or darkness, you can grip the edges of the cloak with both hands and use it to fly at a speed of 40 feet. If you ever fail to grip the cloak’s edges while flying in this way, or if you are no longer in dim light or darkness, you lose this flying speed.
 

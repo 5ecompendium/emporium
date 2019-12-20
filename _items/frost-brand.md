@@ -3,9 +3,9 @@ layout: item
 title:  "Frost Brand"
 sources: [DMG.171]
 tags: [weapon, sword, very-rare, attunement]
+category: "Weapon (any sword)"
+rarity: "Very rare (requires attunement)"
 ---
-
-**Weapon (any sword)** ◆ *Very rare (requires attunement)*
 
 When you hit with an attack using this magic sword, the target takes an extra 1d6 cold damage. In addition, while you hold the sword, you have resistance to fire damage.
 

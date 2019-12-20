@@ -3,9 +3,9 @@ layout: item
 title:  "Decanter of Endless Water"
 sources: [DMG.161]
 tags: [wondrous, uncommon]
+category: "Wondrous Item"
+rarity: "Uncommon"
 ---
-
-**Wondrous Item** ◆ *Uncommon*
 
 This stoppered flask sloshes when shaken, as if it contains water. The decanter weighs 2 pounds.
 

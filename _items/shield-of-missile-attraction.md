@@ -3,9 +3,9 @@ layout: item
 title:  "Shield of Missile Attraction"
 sources: [DMG.200]
 tags: [armor, shield, rare, attunement, cursed]
+category: "Armor (shield)"
+rarity: "Uncommon (+1), rare (+2), or very rare (+3)"
 ---
-
-**Armor (shield)** ◆ *Uncommon (+1), rare (+2), or very rare (+3)*
 
 While holding this shield, you have resistance to damage from ranged weapon attacks.
 

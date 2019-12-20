@@ -3,9 +3,9 @@ layout: item
 title:  "Helm of Brilliance"
 sources: [DMG.173]
 tags: [wondrous, very-rare, attunement]
+category: "Wondrous Item"
+rarity: "Very rare (requires attunement)"
 ---
-
-**Wondrous Item** ◆ *Very rare (requires attunement)*
 
 This dazzling helm is set with 1d10 diamonds, 2d10 rubies, 3d10 fire opals, and 4d10 opals. Any gem pried from the helm crumbles to dust. When all the gems are removed or destroyed, the helm loses its magic.
 
