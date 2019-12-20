@@ -2,7 +2,7 @@
 layout: item
 title:  "Potion of Healing"
 sources: [DMG.187]
-tags: [potion, uncommon]
+tags: [potion, common]
 ---
 
 **Potion** ◆ *Rarity varies*
