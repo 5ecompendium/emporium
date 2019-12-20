@@ -2,7 +2,7 @@
 layout: item
 title:  "Alchemy Jug"
 sources: [DMG.150]
-tags:   [wondrous, uncommon]
+tags:   [wondrous, uncommon, mayonnaise]
 ---
 
 **Wondrous Item** ◆ *Uncommon*
