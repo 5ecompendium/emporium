@@ -2,7 +2,7 @@
 layout: item
 title:  "Ersatz Eye"
 sources: [XGE.137]
-tags: [wondrous item, common, attunement]
+tags: [wondrous item, eyewear, common, attunement]
 category: "Wondrous Item"
 rarity: "Common (requires attunement)"
 ---
