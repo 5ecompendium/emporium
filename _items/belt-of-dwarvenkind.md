@@ -2,7 +2,7 @@
 layout: item
 title:  "Belt of Dwarvenkind"
 sources: [DMG.155]
-tags: [wondrous, rare, attunement]
+tags: [wondrous item, rare, attunement]
 category: "Wondrous Item"
 rarity: "Rare (requires attunement)"
 ---

@@ -2,7 +2,7 @@
 layout: item
 title:  "Periapt of Wound Closure"
 sources: [DMG.184]
-tags: [wondrous, uncommon, attunement]
+tags: [wondrous item, uncommon, attunement]
 category: "Wondrous Item"
 rarity: "Uncommon (requires attunement)"
 ---

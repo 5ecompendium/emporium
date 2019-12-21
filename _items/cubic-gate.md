@@ -2,7 +2,7 @@
 layout: item
 title:  "Cubic Gate"
 sources: [DMG.160]
-tags: [wondrous, legendary]
+tags: [wondrous item, legendary]
 category: "Wondrous Item"
 rarity: "Legendary"
 ---

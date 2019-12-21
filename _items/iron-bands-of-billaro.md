@@ -2,7 +2,7 @@
 layout: item
 title:  "Iron Bands of Bilarro"
 sources: [DMG.177]
-tags: [wondrous, rare]
+tags: [wondrous item, rare]
 category: "Wondrous Item"
 rarity: "Rare"
 ---

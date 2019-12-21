@@ -2,7 +2,7 @@
 layout: item
 title:  "Talisman of Ultimate Evil"
 sources: [DMG.207]
-tags: [wondrous, legendary, attunement]
+tags: [wondrous item, legendary, attunement]
 category: "Wondrous Item"
 rarity: "Legendary (requires attunement by a creature of evil alignment)"
 ---

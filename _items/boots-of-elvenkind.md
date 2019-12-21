@@ -2,7 +2,7 @@
 layout: item
 title:  "Boots of Elvenkind"
 sources: [DMG.155]
-tags: [wondrous, uncommon]
+tags: [wondrous item, uncommon]
 category: "Wondrous Item"
 rarity: "Uncommon"
 ---

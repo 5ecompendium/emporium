@@ -2,7 +2,7 @@
 layout: item
 title:  "Dust of Dryness"
 sources: [DMG.166]
-tags: [wondrous, uncommon]
+tags: [wondrous item, uncommon]
 category: "Wondrous Item"
 rarity: "Uncommon"
 ---

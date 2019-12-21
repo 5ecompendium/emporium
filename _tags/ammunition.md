@@ -1,5 +1,6 @@
 ---
 layout: tag
-name: Ammunition
+name: "ammunition"
 tag: ammunition
+robots: noindex
 ---

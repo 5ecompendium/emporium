@@ -2,7 +2,7 @@
 layout: item
 title:  "Carpet of Flying"
 sources: [DMG.157]
-tags: [wondrous, very rare]
+tags: [wondrous item, very rare]
 category: "Wondrous Item"
 rarity: "Very rare"
 ---

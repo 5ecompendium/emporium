@@ -1,5 +1,6 @@
 ---
 layout: tag
-name: "Attunement Required"
+name: "attunement"
 tag: attunement
+robots: noindex
 ---

@@ -1,5 +1,6 @@
 ---
 layout: tag
-name: Mayonnaise
+name: "mayonnaise"
 tag: mayonnaise
+robots: noindex
 ---

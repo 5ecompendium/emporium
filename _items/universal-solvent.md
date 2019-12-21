@@ -2,7 +2,7 @@
 layout: item
 title:  "Universal Solvent"
 sources: [DMG.209]
-tags: [wondrous, legendary]
+tags: [wondrous item, legendary]
 category: "Wondrous Item"
 rarity: "Legendary"
 ---

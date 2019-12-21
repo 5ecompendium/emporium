@@ -2,7 +2,7 @@
 layout: item
 title:  "Bead of Nourishment"
 sources: [XGE.136]
-tags: [wondrous, common]
+tags: [wondrous item, common]
 category: "Wondrous Item"
 rarity: "Common"
 ---

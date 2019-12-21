@@ -2,7 +2,7 @@
 layout: item
 title:  "Cloak of the Manta Ray"
 sources: [DMG.159]
-tags: [wondrous, uncommon]
+tags: [wondrous item, uncommon]
 category: "Wondrous Item"
 rarity: "Uncommon"
 ---

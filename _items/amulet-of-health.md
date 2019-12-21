@@ -2,7 +2,7 @@
 layout: item
 title:  "Amulet of Health"
 sources: [DMG.150]
-tags: [wondrous, rare, attunement]
+tags: [wondrous item, rare, attunement]
 category: "Wondrous Item"
 rarity: "Rare (requires attunement)"
 ---

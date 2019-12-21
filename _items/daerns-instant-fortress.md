@@ -2,7 +2,7 @@
 layout: item
 title:  "Daern's Instant Fortress"
 sources: [DMG.160]
-tags: [wondrous, rare]
+tags: [wondrous item, rare]
 category: "Wondrous Item"
 rarity: "Rare"
 ---

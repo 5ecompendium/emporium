@@ -1,5 +1,6 @@
 ---
 layout: tag
-name: Uncommon
+name: "uncommon"
 tag: uncommon
+robots: noindex
 ---

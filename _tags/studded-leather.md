@@ -1,5 +1,6 @@
 ---
 layout: tag
-name: "Studded Leather"
+name: "studded-leather"
 tag: studded-leather
+robots: noindex
 ---

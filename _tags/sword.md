@@ -1,5 +1,6 @@
 ---
 layout: tag
-name: Sword
+name: "sword"
 tag: sword
+robots: noindex
 ---

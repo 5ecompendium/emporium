@@ -2,7 +2,7 @@
 layout: item
 title:  "Well of Many Worlds"
 sources: [DMG.213]
-tags: [wondrous, legendary]
+tags: [wondrous item, legendary]
 category: "Wondrous Item"
 rarity: "Legendary"
 ---

@@ -1,5 +1,6 @@
 ---
 layout: tag
-name: Armor
+name: "armor"
 tag: armor
+robots: noindex
 ---

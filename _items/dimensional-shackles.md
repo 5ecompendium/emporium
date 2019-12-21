@@ -2,7 +2,7 @@
 layout: item
 title:  "Dimensional Shackles"
 sources: [DMG.165]
-tags: [wondrous, rare]
+tags: [wondrous item, rare]
 category: "Wondrous Item"
 rarity: "Rare"
 ---

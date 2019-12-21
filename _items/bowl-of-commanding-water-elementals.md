@@ -2,7 +2,7 @@
 layout: item
 title:  "Boots of the Winterlands"
 sources: [DMG.156]
-tags: [wondrous, rare]
+tags: [wondrous item, rare]
 category: "Wondrous Item"
 rarity: "Rare"
 ---

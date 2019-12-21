@@ -2,7 +2,7 @@
 layout: item
 title:  "Heward's Handy Haversack"
 sources: [DMG.174]
-tags: [wondrous, rare]
+tags: [wondrous item, rare]
 category: "Wondrous Item"
 rarity: "Rare"
 ---

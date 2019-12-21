@@ -2,7 +2,7 @@
 layout: item
 title:  "Brooch of Shielding"
 sources: [DMG.156]
-tags: [wondrous, uncommon, attunement]
+tags: [wondrous item, uncommon, attunement]
 category: "Wondrous Item"
 rarity: "Uncommon"
 ---

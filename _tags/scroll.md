@@ -1,5 +1,6 @@
 ---
 layout: tag
-name: Scroll
+name: "scroll"
 tag: scroll
+robots: noindex
 ---

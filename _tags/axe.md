@@ -1,5 +1,6 @@
 ---
 layout: tag
-name: Axe
+name: "axe"
 tag: axe
+robots: noindex
 ---

@@ -2,7 +2,7 @@
 layout: item
 title:  "Dark Shard Amulet"
 sources: [XGE.137]
-tags: [wondrous, common, attunement, warlock]
+tags: [wondrous item, common, attunement, warlock]
 category: "Wondrous Item"
 rarity: "Common (requires attunement by a warlock)"
 ---

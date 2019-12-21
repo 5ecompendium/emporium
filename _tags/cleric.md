@@ -1,5 +1,6 @@
 ---
 layout: tag
-name: Cleric
+name: "cleric"
 tag: cleric
+robots: noindex
 ---

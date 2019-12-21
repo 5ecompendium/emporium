@@ -2,7 +2,7 @@
 layout: item
 title:  "Broom of Flying"
 sources: [DMG.156]
-tags: [wondrous, uncommon]
+tags: [wondrous item, uncommon]
 category: "Wondrous Item"
 rarity: "Uncommon"
 ---

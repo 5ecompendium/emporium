@@ -2,7 +2,7 @@
 layout: item
 title:  "Wings of Flying"
 sources: [DMG.214]
-tags: [wondrous, rare, attunement]
+tags: [wondrous item, rare, attunement]
 category: "Wondrous Item"
 rarity: "Rare (requires attunement)"
 ---

@@ -2,7 +2,7 @@
 layout: item
 title:  "Bead of Force"
 sources: [DMG.154]
-tags: [wondrous, rare]
+tags: [wondrous item, rare]
 category: "Wondrous Item"
 rarity: "Rare"
 ---

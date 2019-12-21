@@ -2,7 +2,7 @@
 layout: item
 title:  "Belt of Storm Giant Strength"
 sources: [DMG.155]
-tags: [wondrous, legendary, attunement]
+tags: [wondrous item, legendary, attunement]
 category: "Wondrous Item"
 rarity: "Legendary (requires attunement)"
 ---

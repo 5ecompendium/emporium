@@ -2,7 +2,7 @@
 layout: item
 title:  "Tome of Clear Thought"
 sources: [DMG.208]
-tags: [wondrous, very rare]
+tags: [wondrous item, very rare]
 category: "Wondrous Item"
 rarity: "Very rare"
 ---

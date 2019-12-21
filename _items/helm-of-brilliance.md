@@ -2,7 +2,7 @@
 layout: item
 title:  "Helm of Brilliance"
 sources: [DMG.173]
-tags: [wondrous, very rare, attunement]
+tags: [wondrous item, very rare, attunement]
 category: "Wondrous Item"
 rarity: "Very rare (requires attunement)"
 ---

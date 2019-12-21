@@ -2,7 +2,7 @@
 layout: item
 title:  "Mirror of Life Trapping"
 sources: [DMG.181]
-tags: [wondrous, very rare]
+tags: [wondrous item, very rare]
 category: "Wondrous Item"
 rarity: "Very rare"
 ---

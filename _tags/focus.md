@@ -1,5 +1,6 @@
 ---
 layout: tag
-name: Focus
+name: "focus"
 tag: focus
+robots: noindex
 ---

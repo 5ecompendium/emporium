@@ -2,7 +2,7 @@
 layout: item
 title:  "Bag of Tricks"
 sources: [DMG.154]
-tags: [wondrous, uncommon]
+tags: [wondrous item, uncommon]
 category: "Wondrous Item"
 rarity: "Uncommon"
 ---

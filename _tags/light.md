@@ -1,5 +1,6 @@
 ---
 layout: tag
-name: "Light Armor"
+name: "light"
 tag: light
+robots: noindex
 ---

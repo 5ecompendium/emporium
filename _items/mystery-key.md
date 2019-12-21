@@ -2,7 +2,7 @@
 layout: item
 title:  "Mystery Key"
 sources: [XGE.138]
-tags: [wondrous, common]
+tags: [wondrous item, common]
 category: "Wondrous Item"
 rarity: "Common"
 ---

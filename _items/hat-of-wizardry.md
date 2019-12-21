@@ -2,7 +2,7 @@
 layout: item
 title:  "Hat of Wizardry"
 sources: [XGE.137]
-tags: [wondrous, common, attunement, wizard]
+tags: [wondrous item, common, attunement, wizard]
 category: "Wondrous Item"
 rarity: "Common (requires attunement by a wizard)"
 ---

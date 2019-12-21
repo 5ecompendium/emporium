@@ -2,7 +2,7 @@
 layout: item
 title:  "Ruby of the War Mage"
 sources: [XGE.138]
-tags: [wondrous, common, attunement]
+tags: [wondrous item, common, attunement]
 category: "Wondrous Item"
 rarity: "Common (requires attunement by a spellcaster)"
 ---

@@ -2,7 +2,7 @@
 layout: item
 title:  "Pipes of Haunting"
 sources: [DMG.185]
-tags: [wondrous, uncommon]
+tags: [wondrous item, uncommon]
 category: "Wondrous Item"
 rarity: "Uncommon"
 ---

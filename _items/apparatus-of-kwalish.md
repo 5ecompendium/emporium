@@ -2,7 +2,7 @@
 layout: item
 title:  "Apparatus of Kwalish"
 sources: [DMG.151]
-tags: [wondrous, legendary]
+tags: [wondrous item, legendary]
 category: "Wondrous Item"
 rarity: "Legendary"
 ---

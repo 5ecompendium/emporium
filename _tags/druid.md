@@ -1,5 +1,6 @@
 ---
 layout: tag
-name: Druid
+name: "druid"
 tag: druid
+robots: noindex
 ---

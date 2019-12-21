@@ -2,7 +2,7 @@
 layout: item
 title:  "Pearl of Power"
 sources: [DMG.184]
-tags: [wondrous, uncommon, attunement]
+tags: [wondrous item, uncommon, attunement]
 category: "Wondrous Item"
 rarity: "Uncommon (requires attunement by a spellcaster)"
 ---

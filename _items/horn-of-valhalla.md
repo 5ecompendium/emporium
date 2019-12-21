@@ -2,7 +2,7 @@
 layout: item
 title:  "Horn of Valhalla"
 sources: [DMG.175]
-tags: [wondrous, rare]
+tags: [wondrous item, rare]
 category: "Wondrous Item"
 rarity: "Rare (silver or brass), very rare (bronze), or legendary (iron)"
 ---

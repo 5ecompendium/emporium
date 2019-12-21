@@ -2,7 +2,7 @@
 layout: item
 title:  "Manual of Gainful Exercise"
 sources: [DMG.180]
-tags: [wondrous, very rare]
+tags: [wondrous item, very rare]
 category: "Wondrous Item"
 rarity: "Very rare"
 ---

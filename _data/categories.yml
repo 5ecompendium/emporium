@@ -10,5 +10,5 @@
   tag: scroll
 - name: Weapon
   tag: weapon
-- name: Wondrous
-  tag: wondrous
+- name: Wondrous Item
+  tag: wondrous item

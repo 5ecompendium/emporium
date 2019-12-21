@@ -2,7 +2,7 @@
 layout: item
 title:  "Rope of Entanglement"
 sources: [DMG.197]
-tags: [wondrous, rare]
+tags: [wondrous item, rare]
 category: "Wondrous Item"
 rarity: "Rare"
 ---

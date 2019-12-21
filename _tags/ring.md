@@ -1,5 +1,6 @@
 ---
 layout: tag
-name: Ring
+name: "ring"
 tag: ring
+robots: noindex
 ---

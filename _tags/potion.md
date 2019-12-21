@@ -1,5 +1,6 @@
 ---
 layout: tag
-name: Potion
+name: "potion"
 tag: potion
+robots: noindex
 ---

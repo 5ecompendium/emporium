@@ -2,7 +2,7 @@
 layout: item
 title:  "Instrument of Illusions"
 sources: [XGE.137]
-tags: [wondrous, common, attunement]
+tags: [wondrous item, common, attunement]
 category: "Wondrous Item"
 rarity: "Common (requires attunement)"
 ---

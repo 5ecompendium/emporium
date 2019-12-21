@@ -2,7 +2,7 @@
 layout: item
 title:  "Bag of Beans"
 sources: [DMG.152]
-tags: [wondrous, rare]
+tags: [wondrous item, rare]
 category: "Wondrous Item"
 rarity: "Rare"
 ---

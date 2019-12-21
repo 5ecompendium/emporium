@@ -2,7 +2,7 @@
 layout: item
 title:  "Crystal Ball"
 sources: [DMG.159]
-tags: [wondrous, very rare]
+tags: [wondrous item, very rare]
 category: "Wondrous Item"
 rarity: "Very rare"
 ---

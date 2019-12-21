@@ -2,7 +2,7 @@
 layout: item
 title:  "Scarab of Protection"
 sources: [DMG.199]
-tags: [wondrous, legendary, attunement]
+tags: [wondrous item, legendary, attunement]
 category: "Wondrous Item"
 rarity: "Legendary (requires attunement)"
 ---

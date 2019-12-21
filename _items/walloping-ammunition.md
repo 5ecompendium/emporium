@@ -2,7 +2,7 @@
 layout: item
 title:  "Walloping Ammunition"
 sources: [XGE.139]
-tags: [weapon, ammunition, commmon]
+tags: [weapon, ammunition, common]
 category: "Weapon (any ammunition)"
 rarity: "Common"
 ---

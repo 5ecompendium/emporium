@@ -1,5 +1,6 @@
 ---
 layout: tag
-name: Legendary
+name: "legendary"
 tag: legendary
+robots: noindex
 ---

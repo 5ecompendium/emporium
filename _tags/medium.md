@@ -1,5 +1,6 @@
 ---
 layout: tag
-name: "Medium Armor"
+name: "medium"
 tag: medium
+robots: noindex
 ---

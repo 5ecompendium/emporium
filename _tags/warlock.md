@@ -1,5 +1,6 @@
 ---
 layout: tag
-name: Warlock
+name: "warlock"
 tag: warlock
+robots: noindex
 ---

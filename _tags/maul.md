@@ -1,5 +1,6 @@
 ---
 layout: tag
-name: Maul
+name: "maul"
 tag: maul
+robots: noindex
 ---

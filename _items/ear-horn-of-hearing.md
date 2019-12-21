@@ -2,7 +2,7 @@
 layout: item
 title:  "Ear Horn of Hearing"
 sources: [XGE.137]
-tags: [wondrous, common]
+tags: [wondrous item, common]
 category: "Wondrous Item"
 rarity: "Common"
 ---

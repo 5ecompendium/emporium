@@ -2,7 +2,7 @@
 layout: item
 title:  "Quaal's Feather Token"
 sources: [DMG.188]
-tags: [wondrous, rare]
+tags: [wondrous item, rare]
 category: "Wondrous Item"
 rarity: "Rare"
 ---

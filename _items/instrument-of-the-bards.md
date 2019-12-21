@@ -2,7 +2,7 @@
 layout: item
 title:  "Instrument of the Bards"
 sources: [DMG.176]
-tags: [wondrous, focus, uncommon, attunement, bard]
+tags: [wondrous item, focus, uncommon, attunement, bard]
 category: "Wondrous Item"
 rarity: "Rarity varies (requires attunement by a bard)"
 ---

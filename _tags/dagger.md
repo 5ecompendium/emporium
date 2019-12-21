@@ -1,5 +1,6 @@
 ---
 layout: tag
-name: Dagger
+name: "dagger"
 tag: dagger
+robots: noindex
 ---

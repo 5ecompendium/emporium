@@ -2,7 +2,7 @@
 layout: item
 title:  "Folding Boat"
 sources: [DMG.170]
-tags: [wondrous, rare]
+tags: [wondrous item, rare]
 category: "Wondrous Item"
 rarity: "Rare"
 ---

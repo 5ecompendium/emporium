@@ -2,7 +2,7 @@
 layout: item
 title:  "Talking Doll"
 sources: [XGE.139]
-tags: [wondrous, common, attunement]
+tags: [wondrous item, common, attunement]
 category: "Wondrous Item"
 rarity: "Common (requires attunement)"
 ---

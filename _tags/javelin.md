@@ -1,5 +1,6 @@
 ---
 layout: tag
-name: Javelin
+name: "javelin"
 tag: javelin
+robots: noindex
 ---

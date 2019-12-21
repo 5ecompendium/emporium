@@ -2,7 +2,7 @@
 layout: item
 title:  "Headband of Intellect"
 sources: [DMG.173]
-tags: [wondrous, uncommon, attunement]
+tags: [wondrous item, uncommon, attunement]
 category: "Wondrous Item"
 rarity: "Uncommon (requires attunement)"
 ---

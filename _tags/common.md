@@ -1,5 +1,6 @@
 ---
 layout: tag
-name: Common
+name: "common"
 tag: common
+robots: noindex
 ---

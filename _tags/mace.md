@@ -1,5 +1,6 @@
 ---
 layout: tag
-name: Mace
+name: "mace"
 tag: mace
+robots: noindex
 ---

@@ -2,7 +2,7 @@
 layout: item
 title:  "Candle of Invocation"
 sources: [DMG.157]
-tags: [wondrous, very rare, attunement]
+tags: [wondrous item, very rare, attunement]
 category: "Wondrous Item"
 rarity: "Very rare (requires attunement)"
 ---

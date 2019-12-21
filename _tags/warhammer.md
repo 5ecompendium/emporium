@@ -1,5 +1,6 @@
 ---
 layout: tag
-name: Warhammer
+name: "warhammer"
 tag: warhammer
+robots: noindex
 ---

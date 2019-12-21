@@ -2,7 +2,7 @@
 layout: item
 title:  "Elven Chain"
 sources: [DMG.168]
-tags: [armor, chain-shirt, rare]
+tags: [armor, chain shirt, rare]
 category: "Armor (chain shirt)"
 rarity: "Rare"
 ---

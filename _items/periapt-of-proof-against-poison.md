@@ -2,7 +2,7 @@
 layout: item
 title:  "Periapt of Proof Against Poison"
 sources: [DMG.184]
-tags: [wondrous, rare]
+tags: [wondrous item, rare]
 category: "Wondrous Item"
 rarity: "Rare"
 ---

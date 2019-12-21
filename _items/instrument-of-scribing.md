@@ -2,7 +2,7 @@
 layout: item
 title:  "Instrument of Scribing"
 sources: [XGE.138]
-tags: [wondrous, common, attunement]
+tags: [wondrous item, common, attunement]
 category: "Wondrous Item"
 rarity: "Common (requires attunement)"
 ---

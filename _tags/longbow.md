@@ -1,5 +1,6 @@
 ---
 layout: tag
-name: Longbow
+name: "longbow"
 tag: longbow
+robots: noindex
 ---

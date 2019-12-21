@@ -2,7 +2,7 @@
 layout: item
 title:  "Veteran's Cane"
 sources: [XGE.139]
-tags: [wondrous, common]
+tags: [wondrous item, common]
 category: "Wondrous Item"
 rarity: "Common"
 ---

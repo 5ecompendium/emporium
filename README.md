@@ -11,7 +11,7 @@ Items can be found inside `_items/`. Each item gets its own post, written and st
 
 To add items, make a new file inside `_items/` for each new item, and copy the formatting from another item.
 
-To add tags, make a new file inside `_tags/` for each new tag, and copy the formatting from another tag.
+When you make additions/changes to items, be sure to run scripts/generate_tags.py to regenerate the associated tag files.
 
 ## Build Instructions
 If you've got [Jekyll](https://jekyllrb.com) set up locally, the following should create the build from your friendly command line terminal:

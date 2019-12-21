@@ -2,7 +2,7 @@
 layout: item
 title:  "Efreeti Chain"
 sources: [DMG.167]
-tags: [armor, chain-mail, legendary, attunement]
+tags: [armor, chain mail, legendary, attunement]
 category: "Armor (chain mail)"
 rarity: "Legendary (requires attunement)"
 ---

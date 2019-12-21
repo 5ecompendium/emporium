@@ -2,7 +2,7 @@
 layout: item
 title:  "Portable Hole"
 sources: [DMG.185]
-tags: [wondrous, rare]
+tags: [wondrous item, rare]
 category: "Wondrous Item"
 rarity: "Rare"
 ---

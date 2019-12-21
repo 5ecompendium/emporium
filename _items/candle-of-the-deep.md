@@ -2,7 +2,7 @@
 layout: item
 title:  "Candle of the Deep"
 sources: [XGE.136]
-tags: [wondrous, common]
+tags: [wondrous item, common]
 category: "Wondrous Item"
 rarity: "Common"
 ---

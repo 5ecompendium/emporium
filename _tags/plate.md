@@ -1,5 +1,6 @@
 ---
 layout: tag
-name: Plate
+name: "plate"
 tag: plate
+robots: noindex
 ---

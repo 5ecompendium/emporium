@@ -2,7 +2,7 @@
 layout: item
 title:  "Chime of Opening"
 sources: [DMG.158]
-tags: [wondrous, rare]
+tags: [wondrous item, rare]
 category: "Wondrous Item"
 rarity: "Rare"
 ---

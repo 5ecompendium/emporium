@@ -2,7 +2,7 @@
 layout: item
 title:  "Figurine of Wondrous Power"
 sources: [DMG.169]
-tags: [wondrous, uncommon]
+tags: [wondrous item, uncommon]
 category: "Wondrous Item"
 rarity: "Uncommon"
 ---

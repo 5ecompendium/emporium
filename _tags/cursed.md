@@ -1,5 +1,6 @@
 ---
 layout: tag
-name: Cursed
+name: "cursed"
 tag: cursed
+robots: noindex
 ---

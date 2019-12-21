@@ -2,7 +2,7 @@
 layout: item
 title:  "Manual of Quickness of Action"
 sources: [DMG.181]
-tags: [wondrous, very rare]
+tags: [wondrous item, very rare]
 category: "Wondrous Item"
 rarity: "Very rare"
 ---

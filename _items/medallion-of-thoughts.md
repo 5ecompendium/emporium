@@ -2,7 +2,7 @@
 layout: item
 title:  "Medallion of Thoughts"
 sources: [DMG.181]
-tags: [wondrous, uncommon, attunement]
+tags: [wondrous item, uncommon, attunement]
 category: "Wondrous Item"
 rarity: "Uncommon (requires attunement)"
 ---

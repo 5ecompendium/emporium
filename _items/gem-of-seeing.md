@@ -2,7 +2,7 @@
 layout: item
 title:  "Gem of Seeing"
 sources: [DMG.172]
-tags: [wondrous, rare, attunement]
+tags: [wondrous item, rare, attunement]
 category: "Wondrous Item"
 rarity: "Rare (requires attunement)"
 ---

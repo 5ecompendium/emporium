@@ -2,7 +2,7 @@
 layout: item
 title:  "Mantle of Spell Resistance"
 sources: [DMG.180]
-tags: [wondrous, rare, attunement]
+tags: [wondrous item, rare, attunement]
 category: "Wondrous Item"
 rarity: "Rare (requires attunement)"
 ---

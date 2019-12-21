@@ -2,7 +2,7 @@
 layout: item
 title:  "Quiver of Ehlonna"
 sources: [DMG.189]
-tags: [wondrous, uncommon]
+tags: [wondrous item, uncommon]
 category: "Wondrous Item"
 rarity: "Uncommon"
 ---

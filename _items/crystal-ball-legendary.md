@@ -2,7 +2,7 @@
 layout: item
 title:  "Crystal Ball (Legendary)"
 sources: [DMG.159]
-tags: [wondrous, legendary]
+tags: [wondrous item, legendary]
 category: "Wondrous Item"
 rarity: "Legendary"
 ---

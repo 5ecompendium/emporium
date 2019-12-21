@@ -2,7 +2,7 @@
 layout: item
 title:  "Lantern of Revealing"
 sources: [DMG.179]
-tags: [wondrous, uncommon]
+tags: [wondrous item, uncommon]
 category: "Wondrous Item"
 rarity: "Uncommon"
 ---

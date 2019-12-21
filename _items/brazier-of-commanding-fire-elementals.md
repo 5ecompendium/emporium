@@ -2,7 +2,7 @@
 layout: item
 title:  "Brazier of Commanding Fire Elementals"
 sources: [DMG.156]
-tags: [wondrous, rare]
+tags: [wondrous item, rare]
 category: "Wondrous Item"
 rarity: "Rare"
 ---

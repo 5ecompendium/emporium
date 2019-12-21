@@ -1,5 +1,6 @@
 ---
 layout: tag
-name: Rare
+name: "rare"
 tag: rare
+robots: noindex
 ---

@@ -2,7 +2,7 @@
 layout: item
 title:  "Ioun Stone"
 sources: [DMG.176]
-tags: [wondrous, rare, attunement]
+tags: [wondrous item, rare, attunement]
 category: "Wondrous Item"
 rarity: "Rarity varies (requires attunement)"
 ---

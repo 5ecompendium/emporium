@@ -2,7 +2,7 @@
 layout: item
 title:  "Decanter of Endless Water"
 sources: [DMG.161]
-tags: [wondrous, uncommon]
+tags: [wondrous item, uncommon]
 category: "Wondrous Item"
 rarity: "Uncommon"
 ---

@@ -1,5 +1,6 @@
 ---
 layout: tag
-name: "Heavy Armor"
+name: "heavy"
 tag: heavy
+robots: noindex
 ---

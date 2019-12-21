@@ -2,7 +2,7 @@
 layout: item
 title:  "Wind Fan"
 sources: [DMG.213]
-tags: [wondrous, uncommon]
+tags: [wondrous item, uncommon]
 category: "Wondrous Item"
 rarity: "Uncommon"
 ---

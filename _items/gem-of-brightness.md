@@ -2,7 +2,7 @@
 layout: item
 title:  "Gem of Brightness"
 sources: [DMG.171]
-tags: [wondrous, uncommon]
+tags: [wondrous item, uncommon]
 category: "Wondrous Item"
 rarity: "Uncommon"
 ---

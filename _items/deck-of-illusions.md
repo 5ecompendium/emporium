@@ -2,7 +2,7 @@
 layout: item
 title:  "Deck of Illusions"
 sources: [DMG.161]
-tags: [wondrous, uncommon]
+tags: [wondrous item, uncommon]
 category: "Wondrous Item"
 rarity: "Uncommon"
 ---

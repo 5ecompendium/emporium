@@ -2,7 +2,7 @@
 layout: item
 title:  "Pipes of the Sewers"
 sources: [DMG.185]
-tags: [wondrous, uncommon, attunement]
+tags: [wondrous item, uncommon, attunement]
 category: "Wondrous Item"
 rarity: "Uncommon (requires attunement)"
 ---

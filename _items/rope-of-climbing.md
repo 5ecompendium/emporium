@@ -2,7 +2,7 @@
 layout: item
 title:  "Rope of Climbing"
 sources: [DMG.197]
-tags: [wondrous, uncommon]
+tags: [wondrous item, uncommon]
 category: "Wondrous Item"
 rarity: "Uncommon"
 ---

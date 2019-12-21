@@ -2,7 +2,7 @@
 layout: item
 title:  "Censer of Controlling Air Elementals"
 sources: [DMG.158]
-tags: [wondrous, rare]
+tags: [wondrous item, rare]
 category: "Wondrous Item"
 rarity: "Rare"
 ---

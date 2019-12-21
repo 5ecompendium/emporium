@@ -2,7 +2,7 @@
 layout: item
 title:  "Horseshoes of Speed"
 sources: [DMG.175]
-tags: [wondrous, rare, mount]
+tags: [wondrous item, rare, mount]
 category: "Wondrous Item"
 rarity: "Rare"
 ---

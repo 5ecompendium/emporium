@@ -1,5 +1,6 @@
 ---
 layout: tag
-name: Shield
+name: "shield"
 tag: shield
+robots: noindex
 ---

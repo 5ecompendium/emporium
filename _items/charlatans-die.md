@@ -2,7 +2,7 @@
 layout: item
 title:  "Charlatan's Die"
 sources: [XGE.136]
-tags: [wondrous, common, attunement]
+tags: [wondrous item, common, attunement]
 category: "Wondrous Item"
 rarity: "Common (requires attunement)"
 ---

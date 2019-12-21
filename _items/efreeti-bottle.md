@@ -2,7 +2,7 @@
 layout: item
 title:  "Efreeti Bottle"
 sources: [DMG.167]
-tags: [wondrous, very rare]
+tags: [wondrous item, very rare]
 category: "Wondrous Item"
 rarity: "Very rare"
 ---

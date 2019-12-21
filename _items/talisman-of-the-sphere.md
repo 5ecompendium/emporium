@@ -2,7 +2,7 @@
 layout: item
 title:  "Talisman of the Sphere"
 sources: [DMG.207]
-tags: [wondrous, legendary, attunement]
+tags: [wondrous item, legendary, attunement]
 category: "Wondrous Item"
 rarity: "Legendary (requires attunement)"
 ---

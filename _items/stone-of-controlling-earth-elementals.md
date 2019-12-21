@@ -2,7 +2,7 @@
 layout: item
 title:  "Stone of Controlling Earth Elementals"
 sources: [DMG.205]
-tags: [wondrous, rare]
+tags: [wondrous item, rare]
 category: "Wondrous Item"
 rarity: "Rare"
 ---
