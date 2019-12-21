@@ -15,20 +15,26 @@ layout: default
   <!-- <p id="sourceSearch">Search by source: <input type="search" name="sourceSearch" id="sourceSearchBar" class="jetsSearch"></p> -->
   <p>
     <dl class="tag-list">
-      <dt>Slot:</dt>
+      <dt>Slot</dt>
       {% for slot in site.data.slots %}
       <dd>
         <a href="{{site.baseurl}}/tags/{{slot.tag}}">{{slot.name}}</a>
       </dd>
+      {% if forloop.rindex > 1 %}
+      •
+      {% endif %}
       {% endfor %}
     </dl>
   </p>
   <dl class="tag-list">
-    <dt>Rarity:</dt>
+    <dt>Rarity</dt>
     {% for rarity in site.data.rarities %}
     <dd>
       <a href="#{{rarity.tag}}">{{rarity.name}}</a>
     </dd>
+    {% if forloop.rindex > 1 %}
+    •
+    {% endif %}
     {% endfor %}
   </dl>
   {% for rarity in site.data.rarities %}

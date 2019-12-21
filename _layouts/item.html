@@ -20,6 +20,9 @@ layout: default
           <a href="{{site.baseurl}}/tags/{{tag}}.html">{{tag}}</a>
         {% endif %}
     </dd>
+    {% if forloop.rindex > 1 %}
+    •
+    {% endif %}
     {% endfor %}
   </header>
 
