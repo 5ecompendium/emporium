@@ -2,7 +2,7 @@
 layout: item
 title:  "Rod of Alertness"
 sources: [DMG.196]
-tags: [focus, rod, very-rare, attunement]
+tags: [focus, rod, very rare, attunement]
 category: "Rod"
 rarity: "Very rare (requires attunement)"
 ---

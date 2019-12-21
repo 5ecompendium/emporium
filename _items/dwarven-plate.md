@@ -2,7 +2,7 @@
 layout: item
 title:  "Dwarven Plate"
 sources: [DMG.167]
-tags: [armor, plate, very-rare]
+tags: [armor, plate, very rare]
 category: "Armor (plate)"
 rarity: "Very rare"
 ---

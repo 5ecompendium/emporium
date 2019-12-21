@@ -2,7 +2,7 @@
 layout: item
 title:  "Staff of Power"
 sources: [DMG.202]
-tags: [focus, staff, very-rare, attunement, sorcerer, warlock, wizard]
+tags: [focus, staff, very rare, attunement, sorcerer, warlock, wizard]
 category: "Staff"
 rarity: "Very rare (requires attunement by a sorcerer, warlock, or wizard)"
 ---

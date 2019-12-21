@@ -2,7 +2,7 @@
 layout: item
 title:  "Potion of Flying"
 sources: [DMG.187]
-tags: [potion, very-rare]
+tags: [potion, very rare]
 category: "Potion"
 rarity: "Very rare"
 ---

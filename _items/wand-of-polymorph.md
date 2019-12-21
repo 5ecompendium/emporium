@@ -2,7 +2,7 @@
 layout: item
 title:  "Wand of Polymorph"
 sources: [DMG.211]
-tags: [focus, wand, very-rare, attunement]
+tags: [focus, wand, very rare, attunement]
 category: "Wand"
 rarity: "Very rare (requires attunement by a spellcaster)"
 ---

@@ -2,7 +2,7 @@
 layout: item
 title:  "Animated Shield"
 sources: [DMG.151]
-tags: [armor, shield, very-rare, attunement]
+tags: [armor, shield, very rare, attunement]
 category: "Armor (shield)"
 rarity: "Very rare (requires attunement)"
 ---

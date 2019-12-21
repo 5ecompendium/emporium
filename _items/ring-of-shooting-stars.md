@@ -2,7 +2,7 @@
 layout: item
 title:  "Ring of Shooting Stars"
 sources: [DMG.192]
-tags: [ring, very-rare, attunement]
+tags: [ring, very rare, attunement]
 category: "Ring"
 rarity: "Very rare (requires attunement outdoors at night)"
 ---

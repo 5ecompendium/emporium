@@ -2,7 +2,7 @@
 layout: item
 title:  "Rod of Absorption"
 sources: [DMG.195]
-tags: [focus, rod, very-rare, attunement]
+tags: [focus, rod, very rare, attunement]
 category: "Rod"
 rarity: "Very rare (requires attunement)"
 ---

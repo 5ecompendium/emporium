@@ -2,7 +2,7 @@
 layout: item
 title:  "Dwarven Thrower"
 sources: [DMG.167]
-tags: [weapon, warhammer, very-rare, attunement]
+tags: [weapon, warhammer, very rare, attunement]
 category: "Weapon (warhammer)"
 rarity: "Very rare (requires attunement by a dwarf)"
 ---

@@ -2,7 +2,7 @@
 layout: item
 title:  "Oathbow"
 sources: [DMG.183]
-tags: [weapon, longbow, very-rare, attunement]
+tags: [weapon, longbow, very rare, attunement]
 category: "Weapon (longbow)"
 rarity: "Very rare (requires attunement)"
 ---

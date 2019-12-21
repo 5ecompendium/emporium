@@ -2,7 +2,7 @@
 layout: item
 title:  "Dragon Scale Mail"
 sources: [DMG.165]
-tags: [armor, scale-mail, very-rare, attunement]
+tags: [armor, scale-mail, very rare, attunement]
 category: "Armor (scale mail)"
 rarity: "Very rare (requires attunement)"
 ---

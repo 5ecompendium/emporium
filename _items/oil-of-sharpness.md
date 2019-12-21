@@ -2,7 +2,7 @@
 layout: item
 title:  "Oil of Sharpness"
 sources: [DMG.184]
-tags: [potion, very-rare]
+tags: [potion, very rare]
 category: "Potion"
 rarity: "Very rare"
 ---

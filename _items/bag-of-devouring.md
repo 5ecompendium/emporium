@@ -2,7 +2,7 @@
 layout: item
 title:  "Bag of Devouring"
 sources: [DMG.153]
-tags: [wondrous, very-rare]
+tags: [wondrous, very rare]
 category: "Wondrous Item"
 rarity: "Very rare"
 ---

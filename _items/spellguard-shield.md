@@ -2,7 +2,7 @@
 layout: item
 title:  "Spellguard Shield"
 sources: [DMG.201]
-tags: [armor, shield, very-rare, attunement]
+tags: [armor, shield, very rare, attunement]
 category: "Armor (shield)"
 rarity: "Very rare (requires attunement)"
 ---

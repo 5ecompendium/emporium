@@ -2,7 +2,7 @@
 layout: item
 title:  "Scimitar of Speed"
 sources: [DMG.199]
-tags: [weapon, scimitar, very-rare, attunement]
+tags: [weapon, scimitar, very rare, attunement]
 category: "Weapon (scimitar)"
 rarity: "Very rare (requires attunement)"
 ---

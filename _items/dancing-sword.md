@@ -2,7 +2,7 @@
 layout: item
 title:  "Dancing Sword"
 sources: [DMG.161]
-tags: [weapon, sword, very-rare, attunement]
+tags: [weapon, sword, very rare, attunement]
 category: "Weapon (any sword)"
 rarity: "Very rare (requires attunement)"
 ---

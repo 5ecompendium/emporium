@@ -2,7 +2,7 @@
 layout: item
 title:  "Ring of Regeneration"
 sources: [DMG.191]
-tags: [ring, very-rare, attunement]
+tags: [ring, very rare, attunement]
 category: "Ring"
 rarity: "Very rare (requires attunement)"
 ---

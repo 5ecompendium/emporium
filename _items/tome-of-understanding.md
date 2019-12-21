@@ -2,7 +2,7 @@
 layout: item
 title:  "Tome of Understanding"
 sources: [DMG.209]
-tags: [wondrous, very-rare]
+tags: [wondrous, very rare]
 category: "Wondrous Item"
 rarity: "Very rare"
 ---

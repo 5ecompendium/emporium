@@ -2,7 +2,7 @@
 layout: item
 title:  "Manual of Golems"
 sources: [DMG.180]
-tags: [wondrous, very-rare]
+tags: [wondrous, very rare]
 category: "Wondrous Item"
 rarity: "Very rare"
 ---

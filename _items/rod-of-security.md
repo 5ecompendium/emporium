@@ -2,7 +2,7 @@
 layout: item
 title:  "Rod of Security"
 sources: [DMG.197]
-tags: [focus, rod, very-rare]
+tags: [focus, rod, very rare]
 category: "Rod"
 rarity: "Very rare"
 ---

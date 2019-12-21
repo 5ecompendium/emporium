@@ -2,7 +2,7 @@
 layout: item
 title:  "Frost Brand"
 sources: [DMG.171]
-tags: [weapon, sword, very-rare, attunement]
+tags: [weapon, sword, very rare, attunement]
 category: "Weapon (any sword)"
 rarity: "Very rare (requires attunement)"
 ---

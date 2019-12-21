@@ -2,7 +2,7 @@
 layout: item
 title:  "Potion of Speed"
 sources: [DMG.188]
-tags: [potion, very-rare]
+tags: [potion, very rare]
 category: "Potion"
 rarity: "Very rare"
 ---

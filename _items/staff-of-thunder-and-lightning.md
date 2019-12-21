@@ -2,7 +2,7 @@
 layout: item
 title:  "Staff of Thunder and Lightning"
 sources: [DMG.204]
-tags: [focus, staff, very-rare, attunement]
+tags: [focus, staff, very rare, attunement]
 category: "Staff"
 rarity: "Very rare (requires attunement)"
 ---

@@ -2,7 +2,7 @@
 layout: item
 title:  "Nine Lives Stealer"
 sources: [DMG.183]
-tags: [weapon, sword, very-rare, attunement]
+tags: [weapon, sword, very rare, attunement]
 category: "Weapon (any sword)"
 rarity: "Very rare (requires attunement)"
 ---

@@ -2,7 +2,7 @@
 layout: item
 title:  "Demon Armor"
 sources: [DMG.165]
-tags: [armor, plate, very-rare, attunement, cursed]
+tags: [armor, plate, very rare, attunement, cursed]
 category: "Armor (plate)"
 rarity: "Very rare (requires attunement)"
 ---

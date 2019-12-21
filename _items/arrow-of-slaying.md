@@ -2,7 +2,7 @@
 layout: item
 title:  "Arrow of Slaying"
 sources: [DMG.152]
-tags: [weapon, arrow, very-rare]
+tags: [weapon, arrow, very rare]
 category: "Weapon (arrow)"
 rarity: "Very rare"
 ---

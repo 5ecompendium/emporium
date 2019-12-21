@@ -2,7 +2,7 @@
 layout: item
 title:  "Sword of Sharpness"
 sources: [DMG.206]
-tags: [weapon, sword, very-rare, attunement]
+tags: [weapon, sword, very rare, attunement]
 category: "Weapon (any sword that deals slashing damage)"
 rarity: "Very rare (requires attunement)"
 ---

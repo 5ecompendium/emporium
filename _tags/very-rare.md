@@ -1,5 +1,5 @@
 ---
 layout: tag
 name: "Very Rare"
-tag: very-rare
+tag: very rare
 ---

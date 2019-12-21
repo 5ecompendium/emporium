@@ -2,7 +2,7 @@
 layout: item
 title:  "Norzur's Marvelous Pigments"
 sources: [DMG.183]
-tags: [wondrous, very-rare]
+tags: [wondrous, very rare]
 category: "Wondrous Item"
 rarity: "Very rare"
 ---

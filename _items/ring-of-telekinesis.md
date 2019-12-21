@@ -2,7 +2,7 @@
 layout: item
 title:  "Ring of Telekinesis"
 sources: [DMG.193]
-tags: [ring, very-rare, attunement]
+tags: [ring, very rare, attunement]
 category: "Ring"
 rarity: "Very rare (requires attunement)"
 ---

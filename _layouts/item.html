@@ -14,7 +14,7 @@ layout: default
     <dt>Tags:</dt>
     {% for tag in page.tags %}
     <dd>
-        {% if tag == 'common' or tag == 'uncommon' or tag == 'rare' or tag == 'very-rare' or tag == 'legendary' %}
+        {% if tag == 'common' or tag == 'uncommon' or tag == 'rare' or tag == 'very rare' or tag == 'legendary' %}
           <a href="{{site.baseurl}}/#{{tag}}">{{tag}}</a>
         {% else %}
           <a href="{{site.baseurl}}/tags/{{tag}}.html">{{tag}}</a>

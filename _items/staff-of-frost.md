@@ -2,7 +2,7 @@
 layout: item
 title:  "Staff of Frost"
 sources: [DMG.202]
-tags: [focus, staff, very-rare, attunement, druid, sorcerer, warlock, wizard]
+tags: [focus, staff, very rare, attunement, druid, sorcerer, warlock, wizard]
 category: "Staff"
 rarity: "Very rare (requires attunement by a druid, sorcerer, warlock, or wizard)"
 ---
