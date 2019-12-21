@@ -2,7 +2,7 @@
 layout: item
 title:  "Hat of Disguise"
 sources: [DMG.173]
-tags: [wondrous item, uncommon, attunement]
+tags: [wondrous item, helm, uncommon, attunement]
 category: "Wondrous Item"
 rarity: "Uncommon (requires attunement)"
 ---

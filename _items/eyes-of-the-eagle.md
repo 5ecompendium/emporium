@@ -2,7 +2,7 @@
 layout: item
 title:  "Eyes of the Eagle"
 sources: [DMG.168]
-tags: [wondrous item, uncommon, attunement]
+tags: [wondrous item, eyes, uncommon, attunement]
 category: "Wondrous Item"
 rarity: "Uncommon (requires attunement)"
 ---

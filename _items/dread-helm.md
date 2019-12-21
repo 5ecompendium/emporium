@@ -2,7 +2,7 @@
 layout: item
 title:  "Dread Helm"
 sources: [XGE.137]
-tags: [wondrous item, common]
+tags: [wondrous item, helm, common]
 category: "Wondrous Item"
 rarity: "Common"
 ---

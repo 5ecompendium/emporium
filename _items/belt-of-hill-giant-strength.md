@@ -2,7 +2,7 @@
 layout: item
 title:  "Belt of Hill Giant Strength"
 sources: [DMG.155]
-tags: [wondrous item, rare, attunement]
+tags: [wondrous item, belt, rare, attunement]
 category: "Wondrous Item"
 rarity: "Rare (requires attunement)"
 ---

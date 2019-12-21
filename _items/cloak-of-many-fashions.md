@@ -2,7 +2,7 @@
 layout: item
 title:  "Cloak of Many Fashions"
 sources: [XGE.136]
-tags: [wondrous item, common]
+tags: [wondrous item, cloak, common]
 category: "Wondrous Item"
 rarity: "Common"
 ---

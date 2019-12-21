@@ -2,7 +2,7 @@
 layout: item
 title:  "Saddle of the Cavalier"
 sources: [DMG.199]
-tags: [wondrous item, uncommon, mount]
+tags: [wondrous item, mount, uncommon]
 category: "Wondrous Item"
 rarity: "Uncommon"
 ---

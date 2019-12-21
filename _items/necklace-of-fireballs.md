@@ -2,7 +2,7 @@
 layout: item
 title:  "Necklace of Fireballs"
 sources: [DMG.182]
-tags: [wondrous item, rare]
+tags: [wondrous item, necklace, rare]
 category: "Wondrous Item"
 rarity: "Rare"
 ---

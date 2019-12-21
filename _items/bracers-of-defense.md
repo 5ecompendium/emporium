@@ -2,7 +2,7 @@
 layout: item
 title:  "Bracers of Defense"
 sources: [DMG.156]
-tags: [wondrous item, rare, attunement]
+tags: [wondrous item, bracers, rare, attunement]
 category: "Wondrous Item"
 rarity: "Rare (requires attunement)"
 ---

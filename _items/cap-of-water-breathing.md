@@ -2,7 +2,7 @@
 layout: item
 title:  "Cap of Water Breathing"
 sources: [DMG.157]
-tags: [wondrous item, uncommon]
+tags: [wondrous item, helm, uncommon]
 category: "Wondrous Item"
 rarity: "Uncommon"
 ---

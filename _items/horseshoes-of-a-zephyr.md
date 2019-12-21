@@ -2,7 +2,7 @@
 layout: item
 title:  "Horseshoes of a Zephyr"
 sources: [DMG.175]
-tags: [wondrous item, very rare, mount]
+tags: [wondrous item, mount, very rare]
 category: "Wondrous Item"
 rarity: "Very rare"
 ---

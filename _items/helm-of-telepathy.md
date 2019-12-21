@@ -2,7 +2,7 @@
 layout: item
 title:  "Helm of Telepathy"
 sources: [DMG.174]
-tags: [wondrous item, uncommon, attunement]
+tags: [wondrous item, helm, uncommon, attunement]
 category: "Wondrous Item"
 rarity: "Uncommon (requires attunement)"
 ---

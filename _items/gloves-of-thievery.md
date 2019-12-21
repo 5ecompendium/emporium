@@ -2,7 +2,7 @@
 layout: item
 title:  "Gloves of Thievery"
 sources: [DMG.172]
-tags: [wondrous item, uncommon]
+tags: [wondrous item, gloves, uncommon]
 category: "Wondrous Item"
 rarity: "Uncommon"
 ---

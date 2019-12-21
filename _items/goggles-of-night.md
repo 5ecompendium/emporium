@@ -2,7 +2,7 @@
 layout: item
 title:  "Goggles of Night"
 sources: [DMG.172]
-tags: [wondrous item, uncommon]
+tags: [wondrous item, eyes, uncommon]
 category: "Wondrous Item"
 rarity: "Uncommon"
 ---

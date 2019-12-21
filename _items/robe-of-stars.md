@@ -2,7 +2,7 @@
 layout: item
 title:  "Robe of Stars"
 sources: [DMG.194]
-tags: [wondrous item, very rare, attunement]
+tags: [wondrous item, robe, very rare, attunement]
 category: "Wondrous Item"
 rarity: "Very rare (requires attunement)"
 ---

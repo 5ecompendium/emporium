@@ -2,7 +2,7 @@
 layout: item
 title:  "Necklace of Prayer Beads"
 sources: [DMG.182]
-tags: [wondrous item, rare, attunement, cleric, druid, paladin]
+tags: [wondrous item, necklace, rare, attunement, cleric, druid, paladin]
 category: "Wondrous Item"
 rarity: "Rare (requires attunement by a cleric, druid, or paladin)"
 ---

@@ -2,7 +2,7 @@
 layout: item
 title:  "Bracers of Archery"
 sources: [DMG.156]
-tags: [wondrous item, uncommon, attunement]
+tags: [wondrous item, bracers, uncommon, attunement]
 category: "Wondrous Item"
 rarity: "Uncommon (requires attunement)"
 ---

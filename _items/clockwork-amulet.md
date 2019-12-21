@@ -2,7 +2,7 @@
 layout: item
 title:  "Clockwork Amulet"
 sources: [XGE.137]
-tags: [wondrous item, common]
+tags: [wondrous item, necklace, common]
 category: "Wondrous Item"
 rarity: "Common"
 ---

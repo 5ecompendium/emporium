@@ -2,7 +2,7 @@
 layout: item
 title:  "Helm of Teleportation"
 sources: [DMG.174]
-tags: [wondrous item, rare, attunement]
+tags: [wondrous item, helm, rare, attunement]
 category: "Wondrous Item"
 rarity: "Rare (requires attunement)"
 ---

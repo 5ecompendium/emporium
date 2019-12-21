@@ -2,7 +2,7 @@
 layout: item
 title:  "Tome of the Stilled Tongue"
 sources: [DMG.208]
-tags: [wondrous item, legendary, attunement, wizard]
+tags: [wondrous item, spellbook, legendary, attunement, wizard]
 category: "Wondrous Item"
 rarity: "Legendary (requires attunement by a wizard)"
 ---

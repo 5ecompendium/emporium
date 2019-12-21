@@ -2,7 +2,7 @@
 layout: item
 title:  "Bag of Holding"
 sources: [DMG.153]
-tags: [wondrous item, uncommon]
+tags: [wondrous item, storage, uncommon]
 category: "Wondrous Item"
 rarity: "Uncommon"
 ---

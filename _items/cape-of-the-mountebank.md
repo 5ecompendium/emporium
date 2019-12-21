@@ -2,7 +2,7 @@
 layout: item
 title:  "Cape of the Mountebank"
 sources: [DMG.157]
-tags: [wondrous item, rare]
+tags: [wondrous item, cloak, rare]
 category: "Wondrous Item"
 rarity: "Rare"
 ---

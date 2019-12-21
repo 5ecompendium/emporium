@@ -2,7 +2,7 @@
 layout: item
 title:  "Cloak of Protection"
 sources: [DMG.159]
-tags: [wondrous item, uncommon, attunement]
+tags: [wondrous item, cloak, uncommon, attunement]
 category: "Wondrous Item"
 rarity: "Uncommon (requires attunement)"
 ---

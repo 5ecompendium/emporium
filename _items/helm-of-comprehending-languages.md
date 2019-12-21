@@ -2,7 +2,7 @@
 layout: item
 title:  "Helm of Comprehending Languages"
 sources: [DMG.173]
-tags: [wondrous item, uncommon]
+tags: [wondrous item, helm, uncommon]
 category: "Wondrous Item"
 rarity: "Uncommon"
 ---

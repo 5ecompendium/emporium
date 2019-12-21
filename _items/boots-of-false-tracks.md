@@ -2,7 +2,7 @@
 layout: item
 title:  "Boots of False Tracks"
 sources: [XGE.136]
-tags: [wondrous item, common]
+tags: [wondrous item, boots, common]
 category: "Wondrous Item"
 rarity: "Common"
 ---

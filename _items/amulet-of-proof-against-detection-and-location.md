@@ -2,7 +2,7 @@
 layout: item
 title:  "Amulet of Proof Against Detection and Location"
 sources: [DMG.150]
-tags: [wondrous item, uncommon, attunement]
+tags: [wondrous item, necklace, uncommon, attunement]
 category: "Wondrous Item"
 rarity: "Uncommon (requires attunement)"
 ---

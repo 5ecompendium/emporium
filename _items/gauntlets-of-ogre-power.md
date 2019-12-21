@@ -2,7 +2,7 @@
 layout: item
 title:  "Gauntlets of Ogre Power"
 sources: [DMG.171]
-tags: [wondrous item, uncommon, attunement]
+tags: [wondrous item, gloves, uncommon, attunement]
 category: "Wondrous Item"
 rarity: "Uncommon (requires attunement)"
 ---

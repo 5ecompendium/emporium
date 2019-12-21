@@ -2,7 +2,7 @@
 layout: item
 title:  "Boots of Speed"
 sources: [DMG.155]
-tags: [wondrous item, rare, attunement]
+tags: [wondrous item, boots, rare, attunement]
 category: "Wondrous Item"
 rarity: "Rare (requires attunement)"
 ---

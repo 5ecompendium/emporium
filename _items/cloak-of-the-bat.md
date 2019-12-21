@@ -2,7 +2,7 @@
 layout: item
 title:  "Cloak of the Bat"
 sources: [DMG.159]
-tags: [wondrous item, rare, attunement]
+tags: [wondrous item, cloak, rare, attunement]
 category: "Wondrous Item"
 rarity: "Rare (requires attunement)"
 ---

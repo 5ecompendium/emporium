@@ -2,7 +2,7 @@
 layout: item
 title:  "Glamoured Studded Leather"
 sources: [DMG.172]
-tags: [armor, studded-leather, rare]
+tags: [armor, studded leather, rare]
 category: "Armor (studded leather)"
 rarity: "Rare"
 ---

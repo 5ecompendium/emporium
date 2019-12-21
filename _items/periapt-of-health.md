@@ -2,7 +2,7 @@
 layout: item
 title:  "Periapt of Health"
 sources: [DMG.184]
-tags: [wondrous item, uncommon]
+tags: [wondrous item, necklace, uncommon]
 category: "Wondrous Item"
 rarity: "Uncommon"
 ---

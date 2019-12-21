@@ -2,7 +2,7 @@
 layout: item
 title:  "Gloves of Missile Snaring"
 sources: [DMG.172]
-tags: [wondrous item, uncommon, attunement]
+tags: [wondrous item, gloves, uncommon, attunement]
 category: "Wondrous Item"
 rarity: "Uncommon (requires attunement)"
 ---

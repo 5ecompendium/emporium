@@ -2,7 +2,7 @@
 layout: item
 title:  "Boots of the Winterlands"
 sources: [DMG.156]
-tags: [wondrous item, uncommon, attunement]
+tags: [wondrous item, boots, uncommon, attunement]
 category: "Wondrous Item"
 rarity: "Uncommon (requires attunement)"
 ---

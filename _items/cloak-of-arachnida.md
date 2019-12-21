@@ -2,7 +2,7 @@
 layout: item
 title:  "Cloak of Arachnida"
 sources: [DMG.158]
-tags: [wondrous item, very rare, attunement]
+tags: [wondrous item, cloak, very rare, attunement]
 category: "Wondrous Item"
 rarity: "Very rare (requires attunement)"
 ---

@@ -2,7 +2,7 @@
 layout: item
 title:  "Enduring Spellbook"
 sources: [XGE.137]
-tags: [wondrous item, common]
+tags: [wondrous item, spellbook, common]
 category: "Wondrous Item"
 rarity: "Common"
 ---

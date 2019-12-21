@@ -2,7 +2,7 @@
 layout: item
 title:  "Belt of Fire Giant Strength"
 sources: [DMG.155]
-tags: [wondrous item, very rare, attunement]
+tags: [wondrous item, belt, very rare, attunement]
 category: "Wondrous Item"
 rarity: "Very rare (requires attunement)"
 ---

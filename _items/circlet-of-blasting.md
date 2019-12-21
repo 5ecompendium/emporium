@@ -2,7 +2,7 @@
 layout: item
 title:  "Circlet of Blasting"
 sources: [DMG.158]
-tags: [wondrous item, uncommon]
+tags: [wondrous item, helm, uncommon]
 category: "Wondrous Item"
 rarity: "Uncommon"
 ---

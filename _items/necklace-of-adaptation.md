@@ -2,7 +2,7 @@
 layout: item
 title:  "Necklace of Adaptation"
 sources: [DMG.182]
-tags: [wondrous item, uncommon, attunement]
+tags: [wondrous item, necklace, uncommon, attunement]
 category: "Wondrous Item"
 rarity: "Uncommon (requires attunement)"
 ---

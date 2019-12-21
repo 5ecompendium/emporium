@@ -2,7 +2,7 @@
 layout: item
 title:  "Slippers of Spider Climbing"
 sources: [DMG.200]
-tags: [wondrous item, uncommon, attunement]
+tags: [wondrous item, boots, uncommon, attunement]
 category: "Wondrous Item"
 rarity: "Uncommon (requires attunement)"
 ---

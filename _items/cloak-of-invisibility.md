@@ -2,7 +2,7 @@
 layout: item
 title:  "Cloak of Invisibility"
 sources: [DMG.158]
-tags: [wondrous item, legendary, attunement]
+tags: [wondrous item, cloak, legendary, attunement]
 category: "Wondrous Item"
 rarity: "Legendary (requires attunement)"
 ---
