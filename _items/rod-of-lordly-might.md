@@ -2,7 +2,7 @@
 layout: item
 title:  "Rod of Lordly Might"
 sources: [DMG.196]
-tags: [focus, rod, mace, legendary, attunement]
+tags: [focus, rod, weapon, mace, legendary, attunement]
 category: "Rod"
 rarity: "Very rare (requires attunement)"
 ---
