@@ -2,7 +2,7 @@
 layout: item
 title:  "Robe of the Archmagi"
 sources: [DMG.194]
-tags: [wondrous item, robe, legendary, attunement, sorcerer, warlock, wizard]
+tags: [wondrous item, legendary, attunement, sorcerer, warlock, wizard]
 category: "Wondrous Item"
 rarity: "Legendary (requires attunement by a sorcerer, warlock, or wizard)"
 ---

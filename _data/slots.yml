@@ -1,0 +1,16 @@
+- name: Belt
+  tag: belt
+- name: Boots
+  tag: boots
+- name: Bracers
+  tag: bracers
+- name: Eyewear
+  tag: eyewear
+- name: Gloves
+  tag: gloves
+- name: Helm
+  tag: helm
+- name: Necklace
+  tag: Necklace
+- name: Ring
+  tag: ring

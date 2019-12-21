@@ -2,7 +2,7 @@
 layout: item
 title:  "Robe of Eyes"
 sources: [DMG.193]
-tags: [wondrous item, robe, rare, attunement]
+tags: [wondrous item, rare, attunement]
 category: "Wondrous Item"
 rarity: "Rare (requires attunement)"
 ---

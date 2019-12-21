@@ -2,7 +2,7 @@
 layout: item
 title:  "Eyes of Charming"
 sources: [DMG.168]
-tags: [wondrous item, eyes, uncommon, attunement]
+tags: [wondrous item, eyewear, uncommon, attunement]
 category: "Wondrous Item"
 rarity: "Uncommon (requires attunement)"
 ---

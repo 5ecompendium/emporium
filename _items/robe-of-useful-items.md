@@ -2,7 +2,7 @@
 layout: item
 title:  "Robe of Useful Items"
 sources: [DMG.195]
-tags: [wondrous item, robe, uncommon]
+tags: [wondrous item, uncommon]
 category: "Wondrous Item"
 rarity: "Uncommon"
 ---

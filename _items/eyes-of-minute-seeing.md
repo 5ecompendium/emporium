@@ -2,7 +2,7 @@
 layout: item
 title:  "Eyes of Minute Seeing"
 sources: [DMG.168]
-tags: [wondrous item, eyes, uncommon]
+tags: [wondrous item, eyewear, uncommon]
 category: "Wondrous Item"
 rarity: "Uncommon"
 ---

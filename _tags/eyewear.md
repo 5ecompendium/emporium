@@ -1,6 +1,6 @@
 ---
 layout: tag
-name: "robe"
-tag: robe
+name: "eyewear"
+tag: eyewear
 robots: noindex
 ---

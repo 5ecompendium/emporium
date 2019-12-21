@@ -2,7 +2,7 @@
 layout: item
 title:  "Robe of Scintillating Colors"
 sources: [DMG.194]
-tags: [wondrous item, robe, very rare, attunement]
+tags: [wondrous item, very rare, attunement]
 category: "Wondrous Item"
 rarity: "Very rare (requires attunement)"
 ---
