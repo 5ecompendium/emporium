@@ -11,6 +11,6 @@
 - name: Helm
   tag: helm
 - name: Necklace
-  tag: Necklace
+  tag: necklace
 - name: Ring
   tag: ring
