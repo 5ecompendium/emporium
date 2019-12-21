@@ -4,8 +4,14 @@ layout: default
 
 <div class="home">
   <h1 class="page-heading">All Items</h1>
-  <p id="itemSearch">Search by name: <input type="search" class="jetsSearch" id="jetsSearch"></p>
-  <p id="tagSearch">Search by tag: <input type="search" name="tagSearch" id="tagSearchBar" class="jetsSearch"></p>
+  <p id="itemSearch" class="search-bar">
+    <span class="fa fa-search icon"></span>
+    <input type="search" class="jetsSearch" id="jetsSearch" placeholder="Search by name">
+  </p>
+  <p id="tagSearch" class="search-bar">
+    <span class="fa fa-search icon"></span>
+    <input type="search" name="tagSearch" id="tagSearchBar" class="jetsSearch" placeholder="Search by tag">
+  </p>
   <!-- <p id="sourceSearch">Search by source: <input type="search" name="sourceSearch" id="sourceSearchBar" class="jetsSearch"></p> -->
   <p>
     <dl class="tag-list">
