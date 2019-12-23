@@ -21,13 +21,13 @@ layout: default
         {% endif %}
     </dd>
     {% if forloop.rindex > 1 %}
-    •
+    <span class="bullet">•</span>
     {% endif %}
     {% endfor %}
   </header>
 
   <article class="post-content">
-    <p><strong>{{ page.category }}</strong> ◆ <em>{{ page.rarity }}</em></p>
+    <p><strong>{{ page.category }}</strong> <span class="bullet">◆</span> <em>{{ page.rarity }}</em></p>
     {{ content }}
   </article>
 

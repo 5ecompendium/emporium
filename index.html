@@ -21,7 +21,7 @@ layout: default
         <a href="{{site.baseurl}}/tags/{{slot.tag}}">{{slot.name}}</a>
       </dd>
       {% if forloop.rindex > 1 %}
-      •
+      <span class="bullet">•</span>
       {% endif %}
       {% endfor %}
     </dl>
@@ -33,7 +33,7 @@ layout: default
       <a href="#{{rarity.tag}}">{{rarity.name}}</a>
     </dd>
     {% if forloop.rindex > 1 %}
-    •
+    <span class="bullet">•</span>
     {% endif %}
     {% endfor %}
   </dl>
