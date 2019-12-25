@@ -16,6 +16,7 @@ layout: default
   <p>
     <dl class="tag-list">
       <dt>Slot</dt>
+      <span class="bullet">◆</span>
       {% for slot in site.data.slots %}
       <dd>
         <a href="{{site.baseurl}}/tags/{{slot.tag}}">{{slot.name}}</a>
@@ -28,6 +29,7 @@ layout: default
   </p>
   <dl class="tag-list">
     <dt>Rarity</dt>
+    <span class="bullet">◆</span> 
     {% for rarity in site.data.rarities %}
     <dd>
       <a href="#{{rarity.tag}}">{{rarity.name}}</a>
