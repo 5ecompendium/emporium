@@ -1,6 +1,6 @@
 ---
 layout: item
-title:  "Ring of Mind Shielding"
+title:  "Ring of Protection"
 sources: [DMG.191]
 tags: [ring, rare, attunement]
 category: "Ring"
