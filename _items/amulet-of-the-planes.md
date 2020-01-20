@@ -1,6 +1,6 @@
 ---
 layout: item
-title:  "Amulet of Proof Against Detection and Location"
+title:  "Amulet of the Planes"
 sources: [DMG.150]
 tags: [wondrous item, necklace, very rare, attunement]
 category: "Wondrous Item"

@@ -1,6 +1,6 @@
 ---
 layout: item
-title:  "Norzur's Marvelous Pigments"
+title:  "Nolzur's Marvelous Pigments"
 sources: [DMG.183]
 tags: [wondrous item, very rare]
 category: "Wondrous Item"
