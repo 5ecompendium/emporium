@@ -1,7 +1,7 @@
 ---
 layout: item
 title:  "Jakarion's Staff of Frost"
-sources: [COS.187]
+sources: [CoS.187]
 tags: [weapon, staff, very rare, attunement, druid, sorcerer, warlock, wizard]
 category: "Weapon (staff)"
 rarity: "Very rare (requires attunement by a druid, sorcerer, warlock, or wizard)"

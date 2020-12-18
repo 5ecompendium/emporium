@@ -1,7 +1,7 @@
 ---
 layout: item
 title:  "Blood Spear"
-sources: [COS.221]
+sources: [CoS.221]
 tags: [weapon, spear, uncommon, attunement]
 category: "Weapon (spear)"
 rarity: "Uncommon (requires attunement)"

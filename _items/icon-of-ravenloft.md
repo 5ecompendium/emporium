@@ -1,7 +1,7 @@
 ---
 layout: item
 title:  "Icon of Ravenloft"
-sources: [COS.222]
+sources: [CoS.222]
 tags: [wondrous item, legendary, attunement]
 category: "Wondrous Item"
 rarity: "Legendary (requires attunement by a creature of good alignment)"

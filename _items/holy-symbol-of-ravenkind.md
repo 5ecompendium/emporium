@@ -1,7 +1,7 @@
 ---
 layout: item
 title:  "Holy Symbol of Ravenkind"
-sources: [COS.222]
+sources: [CoS.222]
 tags: [wondrous item, legendary, attunement, cleric, paladin]
 category: "Wondrous Item"
 rarity: "Legendary (requires attunement by a cleric or paladin of good alignment)"

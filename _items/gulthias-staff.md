@@ -1,7 +1,7 @@
 ---
 layout: item
 title:  "Gulthias Staff"
-sources: [COS.221]
+sources: [CoS.221]
 tags: [weapon, staff, rare, attunement]
 category: "Weapon (staff)"
 rarity: "Rare (requires attunement)"
