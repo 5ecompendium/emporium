@@ -1,7 +1,7 @@
 ---
 layout: item
 title:  "Charm of Plant Command"
-sources: [GOS.229]
+sources: [GoS.229]
 tags: [wondrous item, rare, attunement]
 category: "Wondrous Item"
 rarity: "Rare (requires attunement)"

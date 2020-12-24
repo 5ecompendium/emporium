@@ -1,7 +1,7 @@
 ---
 layout: item
 title:  "Pipe of Remembrance"
-sources: [GOS.229]
+sources: [GoS.229]
 tags: [wondrous item, common]
 category: "Wondrous Item"
 rarity: "Common"

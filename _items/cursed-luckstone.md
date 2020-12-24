@@ -1,7 +1,7 @@
 ---
 layout: item
 title:  "Cursed Luckstone"
-sources: [GOS.229]
+sources: [GoS.229]
 tags: [wondrous item, uncommon, attunement, cursed]
 category: "Wondrous Item"
 rarity: "Uncommon (requires attunement)"

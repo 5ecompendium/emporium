@@ -1,7 +1,7 @@
 ---
 layout: item
 title:  "Helm of Underwater Action"
-sources: [GOS.229]
+sources: [GoS.229]
 tags: [wondrous item, uncommon, attunement]
 category: "Wondrous Item"
 rarity: "Uncommon (requires attunement)"
